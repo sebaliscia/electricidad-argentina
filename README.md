@@ -13,7 +13,7 @@ Análisis reproducible de la evolución del sistema eléctrico argentino, con co
 - [Estado y limitaciones](release/v0.10.0/RELEASE_STATUS_v0.10.0.md)
 - [Resumen de validación](release/v0.10.0/qa/VALIDATION_SUMMARY_v0.10.0.md)
 - [Fuente narrativa](release/v0.10.0/editorial/source/INFORME_v0.10.0.md)
-- [Scripts reproducibles](release/v0.10.0/scripts)
+- [Scripts reproducibles](https://github.com/sebaliscia/electricidad-argentina/tree/main/release/v0.10.0/scripts)
 - [Registro de fuentes](release/v0.10.0/sources/PUBLICATION_SOURCE_REGISTER_v0.10.0.csv)
 
 ## Contenido
@@ -24,7 +24,7 @@ Los mapas permiten ubicar activos y corredores publicados, pero no representan f
 
 ## Reproducción
 
-La documentación y los comandos de construcción se encuentran dentro de [`release/v0.10.0`](release/v0.10.0). La base científica v0.8.3 no se duplica en este repositorio y debe suministrarse externamente con la huella SHA-256 indicada en la documentación.
+La documentación y los comandos de construcción se encuentran dentro de [`release/v0.10.0`](https://github.com/sebaliscia/electricidad-argentina/tree/main/release/v0.10.0). La base científica v0.8.3 no se duplica en este repositorio y debe suministrarse externamente con la huella SHA-256 indicada en la documentación.
 
 ## Integridad
 
