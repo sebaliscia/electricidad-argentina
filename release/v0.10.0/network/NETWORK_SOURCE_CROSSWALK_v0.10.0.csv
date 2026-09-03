@@ -1,0 +1,8 @@
+source_id,authority,resource,vintage,records,supports,does_not_support,sha256
+ENERGIA_LINES_2026,Secretaría de Energía,Transporte Eléctrico AT Líneas,2026-06-05 (SHP); 2025-12-05 (CSV),1299,"geometría, tensión y nombre","no prueba flujo, congestión ni estado horario",ff9d41b83067622cc4bfa76ed9a26a0a090a5e9dc5e72fe9ab5f77c585cd7b80
+ENERGIA_STATIONS_2026,Secretaría de Energía,Estaciones Transformadoras AT,2026-08-05,323,"ubicación, tensiones declaradas y potencia nominal publicada",no prueba disponibilidad ni saturación,2c392de1c32187a1e8292e08bb1e13c060a9e6c1d7f457a2b40ae92c6beb1eae
+IGN_PROVINCES,Instituto Geográfico Nacional,Provincia WFS,snapshot 2026-08-18; vintage efectivo no publicado,24,límites oficiales,simplificación sólo para representación,1107432c677c6bc26ecbbe3e939ba176e0ade36ee3de1eb64e99d78e0601e9ea
+IGN_PLANTS,Instituto Geográfico Nacional,Centrales eléctricas WFS,snapshot 2026-08-18; vintage efectivo no publicado,445,ubicación y etiqueta tecnológica,no se usa para potencia instalada,584a8a48ff97fc07f5b5a1d0bb01cd0c57b037701fec9ae17db549192c87bf21
+IGN_ARGENMAP,Instituto Geográfico Nacional,Argenmap Topo TMS con relieve,snapshot 2026-08-18; composición vigente,18,relieve y contexto cartográfico,mosaico a zoom 5; no es dato de elevación analítico,MULTIPLE_TILE_HASHES_IN_INPUT_REGISTER
+CAMMESA_2026,CAMMESA,"GEOSADI, red 500/330 kV y unifilares regionales",2026-08,7,validación visual de topología visible,"sin inferencia de flujo, capacidad disponible o congestión",SEE_INPUT_REGISTER
+ALMAMDI_2024,Archivo adjunto del autor,Nodos AlmaMDI,2024-01-30,411,"nombre, coordenadas, tensión y región",categorías y limitaciones no interpretadas sin diccionario oficial,ec7d96dada1e395bf3a0e16b637242b4900c5067c0b6422e85f1f467ebdd7ebc

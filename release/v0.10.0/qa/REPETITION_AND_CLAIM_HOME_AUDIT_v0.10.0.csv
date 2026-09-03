@@ -1,0 +1,16 @@
+repetition_id,claim_or_phrase,locations,repetition_type,classification,action,final_status
+R01,renewables increased 23.313 TWh,"chapter 1; chapter 10",numeric synthesis,NECESSARY,development in chapter 1 and one-line integration in conclusion,PASS
+R02,thermal generation decreased 12.502 TWh,"chapter 1; chapter 6; chapter 10",numeric with different functions,NECESSARY,system bridge then thermal interpretation then integrated close,PASS
+R03,direct thermal CO2 decreased 8.593 Mt,"chapter 1; chapter 6; chapter 10",numeric synthesis,NECESSARY,headline then decomposition then conclusion,PASS
+R04,large hydro decreased 9.807 TWh,"chapter 1; chapter 5; chapter 10",numeric synthesis,NECESSARY,bridge then causal boundary then integrated close,PASS
+R05,BUENOS AIRES represents 49 percent,"chapter 3; chapter 7; chapter 9",semantic recurrence,NECESSARY,demand composition then territorial implication then decision trace,PASS
+R06,maps show assets not flows,"chapter 2; chapter 7; annex D; chapter 11",limitation recurrence,NECESSARY,scope warning map interpretation method contract and final limitation,PASS
+R07,energy is not power,"chapter 2; chapter 3; conclusion",definition plus synthesis,NECESSARY,definition then operational use then integrated close,PASS
+R08,LMDI is not causal,"chapter 2; chapter 6; annex B",limitation recurrence,NECESSARY,claim-class rule figure interpretation and method detail,PASS
+R09,hourly IV is conditional not universal,"chapter 2; chapter 6; annex C",causal boundary,NECESSARY,frontier then explanation then method contract,PASS
+R10,regional series does not replace national balances,"chapter 2; chapter 8; annex E",boundary recurrence,NECESSARY,source hierarchy comparison rule and method,PASS
+R11,stress tests are not forecasts,"chapter 9; annex E; chapter 11",limitation recurrence,NECESSARY,result communication method and residual limit,PASS
+R12,external review pending,"chapter 11; colophon",status recurrence,NECESSARY,substantive limit and publication status,PASS
+R13,vintage 2025 versus 2026,"chapter 2; chapter 7; chapter 11",boundary recurrence,NECESSARY,scope map use and update agenda,PASS
+R14,raw crosswalk status labels,"draft annex D",literal duplicate,REDUCE,replaced raw tokens with Spanish explanatory labels,PASS
+R15,three duplicated year labels per weather scenario,"draft F10",visual repetition,REDUCE,one year label per horizontal group and Spanish legend,PASS

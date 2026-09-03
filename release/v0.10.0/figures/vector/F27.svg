@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="764.56525pt" height="448.261962pt" viewBox="0 0 764.56525 448.261962" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-08-18T20:37:34.745191</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 448.261962 
+L 764.56525 448.261962 
+L 764.56525 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 249.874 405.132362 
+L 730.98 405.132362 
+L 730.98 27.111562 
+L 249.874 27.111562 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 301.191973 405.132362 
+L 301.191973 27.111562 
+" clip-path="url(#p7c022c552b)" style="fill: none; stroke: #dce5e7; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2">
+      <defs>
+       <path id="mff65b7a41b" d="M 0 0 
+L 0 3.5 
+" style="stroke: #203037; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mff65b7a41b" x="301.191973" y="405.132362" style="fill: #203037; stroke: #203037; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 9.3px; font-family: 'Source Sans 3'; text-anchor: middle; fill: #203037" x="301.191973" y="418.754253" transform="rotate(-0 301.191973 418.754253)">No verificada</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 429.486907 405.132362 
+L 429.486907 27.111562 
+" clip-path="url(#p7c022c552b)" style="fill: none; stroke: #dce5e7; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#mff65b7a41b" x="429.486907" y="405.132362" style="fill: #203037; stroke: #203037; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 9.3px; font-family: 'Source Sans 3'; text-anchor: middle; fill: #203037" x="429.486907" y="418.735362" transform="rotate(-0 429.486907 418.735362)">I+D / ensayo</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 557.78184 405.132362 
+L 557.78184 27.111562 
+" clip-path="url(#p7c022c552b)" style="fill: none; stroke: #dce5e7; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#mff65b7a41b" x="557.78184" y="405.132362" style="fill: #203037; stroke: #203037; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 9.3px; font-family: 'Source Sans 3'; text-anchor: middle; fill: #203037" x="557.78184" y="418.754253" transform="rotate(-0 557.78184 418.754253)">Parcial</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 686.076773 405.132362 
+L 686.076773 27.111562 
+" clip-path="url(#p7c022c552b)" style="fill: none; stroke: #dce5e7; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#mff65b7a41b" x="686.076773" y="405.132362" style="fill: #203037; stroke: #203037; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 9.3px; font-family: 'Source Sans 3'; text-anchor: middle; fill: #203037" x="686.076773" y="418.754253" transform="rotate(-0 686.076773 418.754253)">Demostrada</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_9">
+      <defs>
+       <path id="m66c1751c59" d="M 0 0 
+L -3.5 0 
+" style="stroke: #203037; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m66c1751c59" x="249.874" y="56.653158" style="fill: #203037; stroke: #203037; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 9.3px; font-family: 'Source Sans 3'; text-anchor: end; fill: #203037" x="242.874" y="60.070908" transform="rotate(-0 242.874 60.070908)">Transformadores / equipamiento de alta tensión</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m66c1751c59" x="249.874" y="96.520359" style="fill: #203037; stroke: #203037; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 9.3px; font-family: 'Source Sans 3'; text-anchor: end; fill: #203037" x="242.874" y="99.938109" transform="rotate(-0 242.874 99.938109)">Conductores, torres, protecciones / servicios de ingeniería</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#m66c1751c59" x="249.874" y="136.38756" style="fill: #203037; stroke: #203037; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 9.3px; font-family: 'Source Sans 3'; text-anchor: end; fill: #203037" x="242.874" y="139.80531" transform="rotate(-0 242.874 139.80531)">Electrónica de potencia</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m66c1751c59" x="249.874" y="176.254761" style="fill: #203037; stroke: #203037; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 9.3px; font-family: 'Source Sans 3'; text-anchor: end; fill: #203037" x="242.874" y="179.672511" transform="rotate(-0 242.874 179.672511)">Integración / control de almacenamiento</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#m66c1751c59" x="249.874" y="216.121962" style="fill: #203037; stroke: #203037; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 9.3px; font-family: 'Source Sans 3'; text-anchor: end; fill: #203037" x="242.874" y="219.539712" transform="rotate(-0 242.874 219.539712)">Pronóstico, software, SCADA / ciberseguridad</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m66c1751c59" x="249.874" y="255.989164" style="fill: #203037; stroke: #203037; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font-size: 9.3px; font-family: 'Source Sans 3'; text-anchor: end; fill: #203037" x="242.874" y="259.300109" transform="rotate(-0 242.874 259.300109)">Modernización hidráulica</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#m66c1751c59" x="249.874" y="295.856365" style="fill: #203037; stroke: #203037; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font-size: 9.3px; font-family: 'Source Sans 3'; text-anchor: end; fill: #203037" x="242.874" y="299.274115" transform="rotate(-0 242.874 299.274115)">Operación / mantenimiento eólico/solar</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m66c1751c59" x="249.874" y="335.723566" style="fill: #203037; stroke: #203037; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font-size: 9.3px; font-family: 'Source Sans 3'; text-anchor: end; fill: #203037" x="242.874" y="339.141316" transform="rotate(-0 242.874 339.141316)">Componentes / servicios de cadenas eólica / solar</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_17">
+      <g>
+       <use xlink:href="#m66c1751c59" x="249.874" y="375.590767" style="fill: #203037; stroke: #203037; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="font-size: 9.3px; font-family: 'Source Sans 3'; text-anchor: end; fill: #203037" x="242.874" y="379.008517" transform="rotate(-0 242.874 379.008517)">Capacidades nucleares / de investigación</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 172.89704 69.011991 
+L 686.076773 69.011991 
+L 686.076773 44.294326 
+L 172.89704 44.294326 
+z
+" clip-path="url(#p7c022c552b)" style="fill: #081d58"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 172.89704 108.879192 
+L 557.78184 108.879192 
+L 557.78184 84.161527 
+L 172.89704 84.161527 
+z
+" clip-path="url(#p7c022c552b)" style="fill: #1f80b8"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 172.89704 148.746393 
+L 429.486907 148.746393 
+L 429.486907 124.028728 
+L 172.89704 124.028728 
+z
+" clip-path="url(#p7c022c552b)" style="fill: #97d6b9"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 172.89704 188.613594 
+L 429.486907 188.613594 
+L 429.486907 163.895929 
+L 172.89704 163.895929 
+z
+" clip-path="url(#p7c022c552b)" style="fill: #97d6b9"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 172.89704 228.480795 
+L 557.78184 228.480795 
+L 557.78184 203.76313 
+L 172.89704 203.76313 
+z
+" clip-path="url(#p7c022c552b)" style="fill: #1f80b8"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 172.89704 268.347996 
+L 686.076773 268.347996 
+L 686.076773 243.630331 
+L 172.89704 243.630331 
+z
+" clip-path="url(#p7c022c552b)" style="fill: #081d58"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 172.89704 308.215197 
+L 429.486907 308.215197 
+L 429.486907 283.497532 
+L 172.89704 283.497532 
+z
+" clip-path="url(#p7c022c552b)" style="fill: #97d6b9"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 172.89704 348.082398 
+L 557.78184 348.082398 
+L 557.78184 323.364733 
+L 172.89704 323.364733 
+z
+" clip-path="url(#p7c022c552b)" style="fill: #1f80b8"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 172.89704 387.949599 
+L 686.076773 387.949599 
+L 686.076773 363.231934 
+L 172.89704 363.231934 
+z
+" clip-path="url(#p7c022c552b)" style="fill: #081d58"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 249.874 405.132362 
+L 249.874 27.111562 
+" style="fill: none; stroke: #9fb0b5; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 249.874 405.132362 
+L 730.98 405.132362 
+" style="fill: none; stroke: #9fb0b5; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 7.5px; font-family: 'Source Sans 3'; text-anchor: start; fill: #66757c" x="696.340368" y="58.554526" transform="rotate(-0 696.340368 58.554526)">VERIFICADA</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 7.5px; font-family: 'Source Sans 3'; text-anchor: start; fill: #66757c" x="568.045435" y="98.421727" transform="rotate(-0 568.045435 98.421727)">PARCIAL</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 7.5px; font-family: 'Source Sans 3'; text-anchor: start; fill: #66757c" x="439.750501" y="138.288928" transform="rotate(-0 439.750501 138.288928)">PARCIAL</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 7.5px; font-family: 'Source Sans 3'; text-anchor: start; fill: #66757c" x="439.750501" y="178.156129" transform="rotate(-0 439.750501 178.156129)">PARCIAL</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 7.5px; font-family: 'Source Sans 3'; text-anchor: start; fill: #66757c" x="568.045435" y="218.02333" transform="rotate(-0 568.045435 218.02333)">PARCIAL</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 7.5px; font-family: 'Source Sans 3'; text-anchor: start; fill: #66757c" x="696.340368" y="257.890531" transform="rotate(-0 696.340368 257.890531)">VERIFICADA</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 7.5px; font-family: 'Source Sans 3'; text-anchor: start; fill: #66757c" x="439.750501" y="297.757732" transform="rotate(-0 439.750501 297.757732)">PARCIAL</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 7.5px; font-family: 'Source Sans 3'; text-anchor: start; fill: #66757c" x="568.045435" y="337.624933" transform="rotate(-0 568.045435 337.624933)">PARCIAL</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 7.5px; font-family: 'Source Sans 3'; text-anchor: start; fill: #66757c" x="696.340368" y="377.492134" transform="rotate(-0 696.340368 377.492134)">VERIFICADA</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 8.5px; font-family: 'Source Sans 3'; text-anchor: start; fill: #66757c" x="249.874" y="21.426823" transform="rotate(-0 249.874 21.426823)">Evaluación preliminar: separa operación, ingeniería, fabricación, ensayo e I+D</text>
+   </g>
+   <g id="text_24">
+    <text style="font-weight: 600; font-size: 14px; font-family: 'Source Sans 3'; text-anchor: start; fill: #123b4a" x="249.874" y="17.111562" transform="rotate(-0 249.874 17.111562)">Hay capacidades demostradas, pero ninguna etiqueta reemplaza un censo industrial</text>
+   </g>
+  </g>
+  <g id="text_25">
+   <text style="font-size: 6.7px; font-family: 'Source Sans 3'; text-anchor: start; fill: #66757c" x="7.2" y="439.560744" transform="rotate(-0 7.2 439.560744)">Fuentes primarias e institucionales: INTI, CONICET-universidades, CAMMESA, CNEA/Nucleoeléctrica y páginas técnicas empresariales.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p7c022c552b">
+   <rect x="249.874" y="27.111562" width="481.106" height="378.0208"/>
+  </clipPath>
+ </defs>
+</svg>

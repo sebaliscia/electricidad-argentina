@@ -1,0 +1,92 @@
+{
+  "T01": {
+    "title": "Cambios principales entre 2018 y 2025",
+    "columns": ["Magnitud", "2018", "2025", "Cambio"],
+    "rows": [
+      ["Oferta total", "137,825 TWh", "147,096 TWh", "+9,271 TWh"],
+      ["Demanda local", "133,010 TWh", "141,252 TWh", "+6,2 %"],
+      ["Punta instantánea", "26,320 GW", "30,257 GW", "+15,0 %"],
+      ["Generación térmica", "87,727 TWh", "75,225 TWh", "−12,502 TWh"],
+      ["Gran hidráulica", "39,952 TWh", "30,144 TWh", "−9,807 TWh"],
+      ["Nuclear", "6,453 TWh", "10,761 TWh", "+4,308 TWh"],
+      ["Renovables legales", "3,350 TWh", "26,663 TWh", "+23,313 TWh"],
+      ["Importaciones", "0,344 TWh", "4,304 TWh", "+3,960 TWh"]
+    ],
+    "note": "Fuente: CAMMESA (2026a). Las variaciones de energía son diferencias entre extremos; la punta es un máximo instantáneo."
+  },
+  "T02": {
+    "title": "Fronteras que no deben mezclarse",
+    "columns": ["Concepto", "Incluye", "No autoriza a afirmar"],
+    "rows": [
+      ["Generación local", "Centrales en la frontera anual CAMMESA", "Toda generación territorial"],
+      ["Oferta total", "Generación local + importaciones", "Consumo final"],
+      ["Demanda local", "Categorías de consumo CAMMESA", "Demanda total del balance"],
+      ["Punta instantánea", "Máximo dentro de un instante", "Promedio de una hora"],
+      ["Renovables legales", "Definición de leyes 26.190/27.191", "Toda generación renovable física"],
+      ["CO₂ térmico", "Combustión directa publicada", "Ciclo de vida u otros gases"],
+      ["Mapa 2026", "Activos y geometrías publicadas", "Flujo o congestión de 2025"]
+    ],
+    "note": "La comparación sólo es válida cuando numerador, denominador, período y territorio son compatibles."
+  },
+  "T05": {
+    "title": "Cuatro vistas regionales normalizadas, 2025",
+    "columns": ["País", "Generación", "Renovable", "Fósil", "Índice eólica+solar", "Renovable por habitante"],
+    "rows": [
+      ["Argentina", "153,15 TWh", "34,58 %", "58,39 %", "1.562", "1,16 MWh/hab"],
+      ["Brasil", "750,53 TWh", "86,60 %", "11,28 %", "397", "3,05 MWh/hab"],
+      ["Chile", "88,50 TWh", "66,37 %", "33,63 %", "388", "2,96 MWh/hab"],
+      ["Uruguay", "11,94 TWh", "97,82 %", "2,18 %", "106", "3,45 MWh/hab"]
+    ],
+    "note": "Fuente: Ember (2026) y Banco Mundial (2026). Índice eólica+solar: 2018 = 100. Nuclear es cero estructural en Chile y Uruguay."
+  },
+  "T06": {
+    "title": "Capas del atlas y fuerza de la evidencia",
+    "columns": ["Capa", "Vintage", "Uso autorizado", "Límite principal"],
+    "rows": [
+      ["Líneas AT — Secretaría de Energía", "2026", "Geometría y tensión publicada", "Sin flujo ni margen"],
+      ["Estaciones — Secretaría de Energía", "2026", "Ubicación y atributos declarados", "Sin estado horario"],
+      ["Centrales — IGN", "2026", "Ubicación y tecnología", "Sin MW en el recurso usado"],
+      ["Relieve y límites — IGN", "2026", "Contexto territorial", "No es modelo eléctrico"],
+      ["Cartografía CAMMESA", "ago. 2026", "Control visual de topología", "No se digitaliza como flujo"],
+      ["AlmaMDI", "ene. 2024", "Cobertura nodal declarada", "Campos críticos sin diccionario"]
+    ],
+    "note": "Las capas se cruzan para control y orientación; ninguna sustituye un modelo de red validado."
+  },
+  "T07": {
+    "title": "Prioridades, responsables y condición de avance",
+    "columns": ["Prioridad", "Actores principales", "Horizonte", "Condición antes de escalar"],
+    "rows": [
+      ["Tablero energía–punta–rampas–red", "CAMMESA; Secretaría; reguladores", "0–2 años", "Identificadores y fronteras comunes"],
+      ["Pronóstico y flexibilidad", "Operador; distribuidores; grandes usuarios", "0–2 años", "Desempeño y requisitos publicados"],
+      ["Información hídrica integrada", "Cuencas; operadores; autoridades binacionales", "0–2 años", "Series por complejo y hora"],
+      ["Estudios eléctricos de corredores", "Transportistas; CAMMESA; reguladores", "3–5 años", "Parámetros, estados y contingencias"],
+      ["Homologación tecnológica", "INTI; industria; universidades; usuarios", "3–5 años", "Requerimientos y ensayos verificables"],
+      ["Arquitectura territorial sostenida", "Nación; provincias; sistema científico", ">5 años", "Revisión periódica y datos abiertos"]
+    ],
+    "note": "Síntesis trazable de los hallazgos. Los horizontes ordenan gestión; no son garantías de ejecución."
+  },
+  "T09": {
+    "title": "Pruebas de sensibilidad acotadas sobre 2025",
+    "columns": ["Caso", "Escala demanda", "Escala eólica+solar", "Punta neta", "Rampa P99"],
+    "rows": [
+      ["Observado", "1,00", "1,00", "24,272 GW", "2,026 GW/h"],
+      ["Demanda +5 %", "1,05", "1,00", "25,618 GW", "2,095 GW/h"],
+      ["Eólica + solar +25 %", "1,00", "1,25", "23,874 GW", "2,184 GW/h"],
+      ["Combinado", "1,05", "1,25", "25,148 GW", "2,246 GW/h"]
+    ],
+    "note": "Cálculo algebraico con perfiles observados. No modela despacho, red, almacenamiento, vertimiento ni factibilidad."
+  },
+  "T11": {
+    "title": "Agenda mínima de datos para la próxima revisión",
+    "columns": ["Dominio", "Dato prioritario", "Decisión que habilita", "Responsable probable"],
+    "rows": [
+      ["Operación", "Disponibilidad, reservas y restricciones horarias", "Distinguir energía de confiabilidad", "CAMMESA"],
+      ["Red", "Parámetros, límites, estados y flujos por activo", "Estudios de contingencia y corredor", "CAMMESA; transportistas"],
+      ["Agua", "Caudales, cotas, otros usos y consignas", "Separar hidrología, equipos y despacho", "Cuencas; operadores"],
+      ["Renovables", "Pronóstico, vertimiento y conexión", "Medir integración efectiva", "CAMMESA; generadores"],
+      ["Tecnología", "Escala, homologación y origen por componente", "Diseñar programas de capacidades", "INTI; industria"],
+      ["Región", "Intercambio, disponibilidad y frontera común", "Evaluar complementariedad", "Operadores nacionales"]
+    ],
+    "note": "Cada serie debería publicar unidad, zona horaria, identificador, método de revisión, licencia y fecha de corte."
+  }
+}

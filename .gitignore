@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Credenciales y configuración local
+.env
+.env.*
+*.pem
+*.key
+
+# Salidas temporales
+tmp/
+output/
+*.tmp
+*~
+
+# Sistema operativo
+.DS_Store
+Thumbs.db

@@ -1,0 +1,9 @@
+country,year,official_electricity_twh,harmonized_generation_twh,official_renewable_share_pct,harmonized_renewable_share_pct,official_frontier,reconciliation_status,note
+Argentina,2018,137.481834561,146.78,,23.995,CAMMESA/MEM local generation,CONTROL_ONLY_NOT_SUBSTITUTED,baseline official annual series
+Argentina,2024,142.137869048,152.51,,34.385,CAMMESA/MEM local generation,CONTROL_ONLY_NOT_SUBSTITUTED,baseline official annual series
+Argentina,2025,142.792666157,153.15,39.78,34.58,CAMMESA/MEM local generation,CONTROL_ONLY_NOT_SUBSTITUTED,large hydro + legal renewables
+Brazil,2025,783.3,750.53,86.6,86.601,BEN domestic electricity supply,CONTROL_ONLY_NOT_SUBSTITUTED,production + imports; differs from generation
+Chile,2024,85.286,88.62,,70.041,Coordinador SEN generation,CONTROL_ONLY_NOT_SUBSTITUTED,derived from reported -0.16% 2025 change; rounded
+Chile,2025,85.15,88.5,66.7,66.373,Coordinador SEN generation,CONTROL_ONLY_NOT_SUBSTITUTED,renewable share reported approximately
+Uruguay,2024,17.203,13.37,99.0,98.878,BEN national generation,CONTROL_ONLY_NOT_SUBSTITUTED,preliminary 2024
+Uruguay,2025,15.855,11.94,98.0,97.822,MIEM preliminary national generation,CONTROL_ONLY_NOT_SUBSTITUTED,hydro+wind+biomass+solar

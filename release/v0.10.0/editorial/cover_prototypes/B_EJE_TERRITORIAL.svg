@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="595" height="842" viewBox="0 0 595 842">
+  <rect width="595" height="842" fill="#F4F7F6"/>
+  <rect x="0" y="0" width="118" height="842" fill="#123B4A"/>
+  <path d="M72 80 C45 160 92 215 55 302 C28 370 85 465 53 540 C33 600 74 695 48 775" fill="none" stroke="#58B9AA" stroke-width="7"/>
+  <g fill="#D9A441" stroke="#fff" stroke-width="2"><circle cx="72" cy="158" r="9"/><circle cx="58" cy="388" r="11"/><circle cx="55" cy="650" r="8"/></g>
+  <text x="155" y="220" fill="#123B4A" font-family="sans-serif" font-size="39" font-weight="700">La transición</text>
+  <text x="155" y="265" fill="#123B4A" font-family="sans-serif" font-size="39" font-weight="700">eléctrica argentina</text>
+  <text x="155" y="318" fill="#188B86" font-family="sans-serif" font-size="22">evidencia, territorio</text>
+  <text x="155" y="348" fill="#188B86" font-family="sans-serif" font-size="22">y capacidad de decisión</text>
+  <line x1="155" y1="390" x2="525" y2="390" stroke="#D9A441" stroke-width="3"/>
+  <text x="155" y="740" fill="#66757C" font-family="sans-serif" font-size="15">Prototipo alternativo B · v0.10.0</text>
+</svg>

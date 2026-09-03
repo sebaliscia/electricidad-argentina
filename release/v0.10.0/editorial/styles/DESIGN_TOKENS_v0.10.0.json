@@ -1,0 +1,11 @@
+{
+  "page": {"size": "A4", "margin_left_mm": 22, "margin_right_mm": 20, "margin_top_mm": 22, "margin_bottom_mm": 20},
+  "colors": {"navy": "#123B4A", "teal": "#188B86", "mint": "#58B9AA", "gold": "#D9A441", "orange": "#D8684A", "ink": "#203037", "grey": "#66757C", "light": "#EDF3F2"},
+  "fonts": {"body": "Source Serif 4", "sans": "Source Sans 3"},
+  "body": {"size_pt": 9.4, "leading_pt": 12.5},
+  "caption": {"size_pt": 7.5, "leading_pt": 9.3},
+  "title": "Electricidad argentina: cambio, límites y decisiones",
+  "subtitle": "Evolución del sistema 2005–2025, red 2026 y capacidades para una transición con criterio nacional",
+  "author": "Sebastián Liscia",
+  "release": "v0.10.0 — revisión del autor"
+}

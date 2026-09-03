@@ -1,0 +1,105 @@
+country,period,metric,metric_es,unit,start_value,end_value,change,frontier
+Argentina,2018-2025,electricity_generation,generación total,TWh,146.780000000000,153.150000000000,6.370000000000,trayectoria secundaria armonizada OWID/Ember
+Argentina,2018-2025,renewables_electricity,generación renovable,TWh,35.220000000000,52.960000000000,17.740000000000,trayectoria secundaria armonizada OWID/Ember
+Argentina,2018-2025,hydro_electricity_twh,hidráulica,TWh,32.279857600000,26.249910000000,-6.029947600000,trayectoria secundaria armonizada OWID/Ember
+Argentina,2018-2025,wind_electricity_twh,eólica,TWh,1.410555800000,18.619977000000,17.209421200000,trayectoria secundaria armonizada OWID/Ember
+Argentina,2018-2025,solar_electricity_twh,solar,TWh,0.110085000000,5.139714000000,5.029629000000,trayectoria secundaria armonizada OWID/Ember
+Argentina,2018-2025,other_renewables_electricity_twh,otras renovables,TWh,1.419501600000,2.950399000000,1.530897400000,trayectoria secundaria armonizada OWID/Ember
+Argentina,2018-2025,nuclear_electricity_twh,nuclear,TWh,6.870632800000,10.759589000000,3.888956200000,trayectoria secundaria armonizada OWID/Ember
+Argentina,2018-2025,fossil_electricity_twh,fósil,TWh,104.689367200000,89.430411000000,-15.258956200000,trayectoria secundaria armonizada OWID/Ember
+Argentina,2018-2025,renewables_share_elec,participación renovable,puntos porcentuales,23.995000000000,34.580000000000,10.585000000000,trayectoria secundaria armonizada OWID/Ember
+Argentina,2018-2025,hydro_share_elec,participación hidráulica,puntos porcentuales,21.992000000000,17.140000000000,-4.852000000000,trayectoria secundaria armonizada OWID/Ember
+Argentina,2018-2025,wind_share_elec,participación eólica,puntos porcentuales,0.961000000000,12.158000000000,11.197000000000,trayectoria secundaria armonizada OWID/Ember
+Argentina,2018-2025,solar_share_elec,participación solar,puntos porcentuales,0.075000000000,3.356000000000,3.281000000000,trayectoria secundaria armonizada OWID/Ember
+Argentina,2018-2025,fossil_share_elec,participación fósil,puntos porcentuales,71.324000000000,58.394000000000,-12.930000000000,trayectoria secundaria armonizada OWID/Ember
+Argentina,2024-2025,electricity_generation,generación total,TWh,152.510000000000,153.150000000000,0.640000000000,trayectoria secundaria armonizada OWID/Ember
+Argentina,2024-2025,renewables_electricity,generación renovable,TWh,52.440000000000,52.960000000000,0.520000000000,trayectoria secundaria armonizada OWID/Ember
+Argentina,2024-2025,hydro_electricity_twh,hidráulica,TWh,29.669295400000,26.249910000000,-3.419385400000,trayectoria secundaria armonizada OWID/Ember
+Argentina,2024-2025,wind_electricity_twh,eólica,TWh,16.170635300000,18.619977000000,2.449341700000,trayectoria secundaria armonizada OWID/Ember
+Argentina,2024-2025,solar_electricity_twh,solar,TWh,3.969835300000,5.139714000000,1.169878700000,trayectoria secundaria armonizada OWID/Ember
+Argentina,2024-2025,other_renewables_electricity_twh,otras renovables,TWh,2.630234000000,2.950399000000,0.320165000000,trayectoria secundaria armonizada OWID/Ember
+Argentina,2024-2025,nuclear_electricity_twh,nuclear,TWh,10.450548700000,10.759589000000,0.309040300000,trayectoria secundaria armonizada OWID/Ember
+Argentina,2024-2025,fossil_electricity_twh,fósil,TWh,89.619451300000,89.430411000000,-0.189040300000,trayectoria secundaria armonizada OWID/Ember
+Argentina,2024-2025,renewables_share_elec,participación renovable,puntos porcentuales,34.385000000000,34.580000000000,0.195000000000,trayectoria secundaria armonizada OWID/Ember
+Argentina,2024-2025,hydro_share_elec,participación hidráulica,puntos porcentuales,19.454000000000,17.140000000000,-2.314000000000,trayectoria secundaria armonizada OWID/Ember
+Argentina,2024-2025,wind_share_elec,participación eólica,puntos porcentuales,10.603000000000,12.158000000000,1.555000000000,trayectoria secundaria armonizada OWID/Ember
+Argentina,2024-2025,solar_share_elec,participación solar,puntos porcentuales,2.603000000000,3.356000000000,0.753000000000,trayectoria secundaria armonizada OWID/Ember
+Argentina,2024-2025,fossil_share_elec,participación fósil,puntos porcentuales,58.763000000000,58.394000000000,-0.369000000000,trayectoria secundaria armonizada OWID/Ember
+Brazil,2018-2025,electricity_generation,generación total,TWh,601.390000000000,750.530000000000,149.140000000000,trayectoria secundaria armonizada OWID/Ember
+Brazil,2018-2025,renewables_electricity,generación renovable,TWh,495.290000000000,649.970000000000,154.680000000000,trayectoria secundaria armonizada OWID/Ember
+Brazil,2018-2025,hydro_electricity_twh,hidráulica,TWh,388.967024200000,388.631939300000,-0.335084900000,trayectoria secundaria armonizada OWID/Ember
+Brazil,2018-2025,wind_electricity_twh,eólica,TWh,48.478047900000,117.578029800000,69.099981900000,trayectoria secundaria armonizada OWID/Ember
+Brazil,2018-2025,solar_electricity_twh,solar,TWh,3.457992500000,88.637593000000,85.179600500000,trayectoria secundaria armonizada OWID/Ember
+Brazil,2018-2025,other_renewables_electricity_twh,otras renovables,TWh,54.386935400000,55.122437900000,0.735502500000,trayectoria secundaria armonizada OWID/Ember
+Brazil,2018-2025,nuclear_electricity_twh,nuclear,TWh,15.668985700000,15.870194800000,0.201209100000,trayectoria secundaria armonizada OWID/Ember
+Brazil,2018-2025,fossil_electricity_twh,fósil,TWh,90.431014300000,84.689805200000,-5.741209100000,trayectoria secundaria armonizada OWID/Ember
+Brazil,2018-2025,renewables_share_elec,participación renovable,puntos porcentuales,82.358000000000,86.601000000000,4.243000000000,trayectoria secundaria armonizada OWID/Ember
+Brazil,2018-2025,hydro_share_elec,participación hidráulica,puntos porcentuales,64.678000000000,51.781000000000,-12.897000000000,trayectoria secundaria armonizada OWID/Ember
+Brazil,2018-2025,wind_share_elec,participación eólica,puntos porcentuales,8.061000000000,15.666000000000,7.605000000000,trayectoria secundaria armonizada OWID/Ember
+Brazil,2018-2025,solar_share_elec,participación solar,puntos porcentuales,0.575000000000,11.810000000000,11.235000000000,trayectoria secundaria armonizada OWID/Ember
+Brazil,2018-2025,fossil_share_elec,participación fósil,puntos porcentuales,15.037000000000,11.284000000000,-3.753000000000,trayectoria secundaria armonizada OWID/Ember
+Brazil,2024-2025,electricity_generation,generación total,TWh,745.720000000000,750.530000000000,4.810000000000,trayectoria secundaria armonizada OWID/Ember
+Brazil,2024-2025,renewables_electricity,generación renovable,TWh,651.260000000000,649.970000000000,-1.290000000000,trayectoria secundaria armonizada OWID/Ember
+Brazil,2024-2025,hydro_electricity_twh,hidráulica,TWh,413.210909200000,388.631939300000,-24.578969900000,trayectoria secundaria armonizada OWID/Ember
+Brazil,2024-2025,wind_electricity_twh,eólica,TWh,108.487345600000,117.578029800000,9.090684200000,trayectoria secundaria armonizada OWID/Ember
+Brazil,2024-2025,solar_electricity_twh,solar,TWh,71.320660800000,88.637593000000,17.316932200000,trayectoria secundaria armonizada OWID/Ember
+Brazil,2024-2025,other_renewables_electricity_twh,otras renovables,TWh,58.241084400000,55.122437900000,-3.118646500000,trayectoria secundaria armonizada OWID/Ember
+Brazil,2024-2025,nuclear_electricity_twh,nuclear,TWh,15.779082800000,15.870194800000,0.091112000000,trayectoria secundaria armonizada OWID/Ember
+Brazil,2024-2025,fossil_electricity_twh,fósil,TWh,78.680917200000,84.689805200000,6.008888000000,trayectoria secundaria armonizada OWID/Ember
+Brazil,2024-2025,renewables_share_elec,participación renovable,puntos porcentuales,87.333000000000,86.601000000000,-0.732000000000,trayectoria secundaria armonizada OWID/Ember
+Brazil,2024-2025,hydro_share_elec,participación hidráulica,puntos porcentuales,55.411000000000,51.781000000000,-3.630000000000,trayectoria secundaria armonizada OWID/Ember
+Brazil,2024-2025,wind_share_elec,participación eólica,puntos porcentuales,14.548000000000,15.666000000000,1.118000000000,trayectoria secundaria armonizada OWID/Ember
+Brazil,2024-2025,solar_share_elec,participación solar,puntos porcentuales,9.564000000000,11.810000000000,2.246000000000,trayectoria secundaria armonizada OWID/Ember
+Brazil,2024-2025,fossil_share_elec,participación fósil,puntos porcentuales,10.551000000000,11.284000000000,0.733000000000,trayectoria secundaria armonizada OWID/Ember
+Chile,2018-2025,electricity_generation,generación total,TWh,81.760000000000,88.500000000000,6.740000000000,trayectoria secundaria armonizada OWID/Ember
+Chile,2018-2025,renewables_electricity,generación renovable,TWh,37.500000000000,58.740000000000,21.240000000000,trayectoria secundaria armonizada OWID/Ember
+Chile,2018-2025,hydro_electricity_twh,hidráulica,TWh,22.900158400000,19.679745000000,-3.220413400000,trayectoria secundaria armonizada OWID/Ember
+Chile,2018-2025,wind_electricity_twh,eólica,TWh,3.580270400000,11.580225000000,7.999954600000,trayectoria secundaria armonizada OWID/Ember
+Chile,2018-2025,solar_electricity_twh,solar,TWh,5.119811200000,22.179870000000,17.060058800000,trayectoria secundaria armonizada OWID/Ember
+Chile,2018-2025,other_renewables_electricity_twh,otras renovables,TWh,5.899760000000,5.300160000000,-0.599600000000,trayectoria secundaria armonizada OWID/Ember
+Chile,2018-2025,nuclear_electricity_twh,nuclear,TWh,0.000000000000,0.000000000000,0.000000000000,trayectoria secundaria armonizada OWID/Ember
+Chile,2018-2025,fossil_electricity_twh,fósil,TWh,44.259958400000,29.759895000000,-14.500063400000,trayectoria secundaria armonizada OWID/Ember
+Chile,2018-2025,renewables_share_elec,participación renovable,puntos porcentuales,45.866000000000,66.373000000000,20.507000000000,trayectoria secundaria armonizada OWID/Ember
+Chile,2018-2025,hydro_share_elec,participación hidráulica,puntos porcentuales,28.009000000000,22.237000000000,-5.772000000000,trayectoria secundaria armonizada OWID/Ember
+Chile,2018-2025,wind_share_elec,participación eólica,puntos porcentuales,4.379000000000,13.085000000000,8.706000000000,trayectoria secundaria armonizada OWID/Ember
+Chile,2018-2025,solar_share_elec,participación solar,puntos porcentuales,6.262000000000,25.062000000000,18.800000000000,trayectoria secundaria armonizada OWID/Ember
+Chile,2018-2025,fossil_share_elec,participación fósil,puntos porcentuales,54.134000000000,33.627000000000,-20.507000000000,trayectoria secundaria armonizada OWID/Ember
+Chile,2024-2025,electricity_generation,generación total,TWh,88.620000000000,88.500000000000,-0.120000000000,trayectoria secundaria armonizada OWID/Ember
+Chile,2024-2025,renewables_electricity,generación renovable,TWh,62.070000000000,58.740000000000,-3.330000000000,trayectoria secundaria armonizada OWID/Ember
+Chile,2024-2025,hydro_electricity_twh,hidráulica,TWh,26.000221800000,19.679745000000,-6.320476800000,trayectoria secundaria armonizada OWID/Ember
+Chile,2024-2025,wind_electricity_twh,eólica,TWh,10.429687800000,11.580225000000,1.150537200000,trayectoria secundaria armonizada OWID/Ember
+Chile,2024-2025,solar_electricity_twh,solar,TWh,20.190294600000,22.179870000000,1.989575400000,trayectoria secundaria armonizada OWID/Ember
+Chile,2024-2025,other_renewables_electricity_twh,otras renovables,TWh,5.449795800000,5.300160000000,-0.149635800000,trayectoria secundaria armonizada OWID/Ember
+Chile,2024-2025,nuclear_electricity_twh,nuclear,TWh,0.000000000000,0.000000000000,0.000000000000,trayectoria secundaria armonizada OWID/Ember
+Chile,2024-2025,fossil_electricity_twh,fósil,TWh,26.549665800000,29.759895000000,3.210229200000,trayectoria secundaria armonizada OWID/Ember
+Chile,2024-2025,renewables_share_elec,participación renovable,puntos porcentuales,70.041000000000,66.373000000000,-3.668000000000,trayectoria secundaria armonizada OWID/Ember
+Chile,2024-2025,hydro_share_elec,participación hidráulica,puntos porcentuales,29.339000000000,22.237000000000,-7.102000000000,trayectoria secundaria armonizada OWID/Ember
+Chile,2024-2025,wind_share_elec,participación eólica,puntos porcentuales,11.769000000000,13.085000000000,1.316000000000,trayectoria secundaria armonizada OWID/Ember
+Chile,2024-2025,solar_share_elec,participación solar,puntos porcentuales,22.783000000000,25.062000000000,2.279000000000,trayectoria secundaria armonizada OWID/Ember
+Chile,2024-2025,fossil_share_elec,participación fósil,puntos porcentuales,29.959000000000,33.627000000000,3.668000000000,trayectoria secundaria armonizada OWID/Ember
+Uruguay,2018-2025,electricity_generation,generación total,TWh,14.610000000000,11.940000000000,-2.670000000000,trayectoria secundaria armonizada OWID/Ember
+Uruguay,2018-2025,renewables_electricity,generación renovable,TWh,14.250000000000,11.680000000000,-2.570000000000,trayectoria secundaria armonizada OWID/Ember
+Uruguay,2018-2025,hydro_electricity_twh,hidráulica,TWh,6.560036100000,3.249948600000,-3.310087500000,trayectoria secundaria armonizada OWID/Ember
+Uruguay,2018-2025,wind_electricity_twh,eólica,TWh,4.729987500000,4.850028000000,0.120040500000,trayectoria secundaria armonizada OWID/Ember
+Uruguay,2018-2025,solar_electricity_twh,solar,TWh,0.409956600000,0.610014600000,0.200058000000,trayectoria secundaria armonizada OWID/Ember
+Uruguay,2018-2025,other_renewables_electricity_twh,otras renovables,TWh,2.550019800000,2.970008800000,0.419989000000,trayectoria secundaria armonizada OWID/Ember
+Uruguay,2018-2025,nuclear_electricity_twh,nuclear,TWh,0.000000000000,0.000000000000,0.000000000000,trayectoria secundaria armonizada OWID/Ember
+Uruguay,2018-2025,fossil_electricity_twh,fósil,TWh,0.359990400000,0.260053200000,-0.099937200000,trayectoria secundaria armonizada OWID/Ember
+Uruguay,2018-2025,renewables_share_elec,participación renovable,puntos porcentuales,97.536000000000,97.822000000000,0.286000000000,trayectoria secundaria armonizada OWID/Ember
+Uruguay,2018-2025,hydro_share_elec,participación hidráulica,puntos porcentuales,44.901000000000,27.219000000000,-17.682000000000,trayectoria secundaria armonizada OWID/Ember
+Uruguay,2018-2025,wind_share_elec,participación eólica,puntos porcentuales,32.375000000000,40.620000000000,8.245000000000,trayectoria secundaria armonizada OWID/Ember
+Uruguay,2018-2025,solar_share_elec,participación solar,puntos porcentuales,2.806000000000,5.109000000000,2.303000000000,trayectoria secundaria armonizada OWID/Ember
+Uruguay,2018-2025,fossil_share_elec,participación fósil,puntos porcentuales,2.464000000000,2.178000000000,-0.286000000000,trayectoria secundaria armonizada OWID/Ember
+Uruguay,2024-2025,electricity_generation,generación total,TWh,13.370000000000,11.940000000000,-1.430000000000,trayectoria secundaria armonizada OWID/Ember
+Uruguay,2024-2025,renewables_electricity,generación renovable,TWh,13.220000000000,11.680000000000,-1.540000000000,trayectoria secundaria armonizada OWID/Ember
+Uruguay,2024-2025,hydro_electricity_twh,hidráulica,TWh,4.499940900000,3.249948600000,-1.249992300000,trayectoria secundaria armonizada OWID/Ember
+Uruguay,2024-2025,wind_electricity_twh,eólica,TWh,5.160017800000,4.850028000000,-0.309989800000,trayectoria secundaria armonizada OWID/Ember
+Uruguay,2024-2025,solar_electricity_twh,solar,TWh,0.559935600000,0.610014600000,0.050079000000,trayectoria secundaria armonizada OWID/Ember
+Uruguay,2024-2025,other_renewables_electricity_twh,otras renovables,TWh,3.000105700000,2.970008800000,-0.030096900000,trayectoria secundaria armonizada OWID/Ember
+Uruguay,2024-2025,nuclear_electricity_twh,nuclear,TWh,0.000000000000,0.000000000000,0.000000000000,trayectoria secundaria armonizada OWID/Ember
+Uruguay,2024-2025,fossil_electricity_twh,fósil,TWh,0.150011400000,0.260053200000,0.110041800000,trayectoria secundaria armonizada OWID/Ember
+Uruguay,2024-2025,renewables_share_elec,participación renovable,puntos porcentuales,98.878000000000,97.822000000000,-1.056000000000,trayectoria secundaria armonizada OWID/Ember
+Uruguay,2024-2025,hydro_share_elec,participación hidráulica,puntos porcentuales,33.657000000000,27.219000000000,-6.438000000000,trayectoria secundaria armonizada OWID/Ember
+Uruguay,2024-2025,wind_share_elec,participación eólica,puntos porcentuales,38.594000000000,40.620000000000,2.026000000000,trayectoria secundaria armonizada OWID/Ember
+Uruguay,2024-2025,solar_share_elec,participación solar,puntos porcentuales,4.188000000000,5.109000000000,0.921000000000,trayectoria secundaria armonizada OWID/Ember
+Uruguay,2024-2025,fossil_share_elec,participación fósil,puntos porcentuales,1.122000000000,2.178000000000,1.056000000000,trayectoria secundaria armonizada OWID/Ember

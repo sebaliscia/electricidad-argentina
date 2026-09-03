@@ -1,0 +1,9 @@
+design,outcome,estimator,variable,coefficient,standard_error,ci_low,ci_high,p_value,n_observations,covariance
+inherited_hourly,thermal_gwh,linearmodels_IV2SLS,wind_gwh,-0.441637228221924,0.03660823969612859,-0.5133913615408741,-0.36988309490297405,0.0,26304,"Bartlett HAC, bandwidth 168"
+inherited_hourly,thermal_gwh,linearmodels_IV2SLS,solar_gwh,-0.27786398188438904,0.057953973835127556,-0.39145691067436433,-0.16427105309441375,1.6392066617409995e-06,26304,"Bartlett HAC, bandwidth 168"
+dynamic_state_hourly,thermal_gwh,linearmodels_IV2SLS,wind_gwh,-0.3768012688727167,0.09449521415519137,-0.5620170163591135,-0.19158552138631993,6.694898265036109e-05,26280,"Bartlett HAC, bandwidth 168"
+dynamic_state_hourly,thermal_gwh,linearmodels_IV2SLS,solar_gwh,-0.14005768705269186,0.05456176084913836,-0.24700169908752775,-0.033113675017855976,0.010265021326124835,26280,"Bartlett HAC, bandwidth 168"
+inherited_daily_co2,co2_kt,linearmodels_IV2SLS,wind_gwh,-0.2571427736743851,0.03593949281868866,-0.32766090261180336,-0.18662464473696685,1.531219595563016e-12,1096,"Bartlett HAC, bandwidth 14"
+inherited_daily_co2,co2_kt,linearmodels_IV2SLS,solar_gwh,-0.3258405150121021,0.21393308456445773,-0.7456060614377092,0.09392503141350506,0.12802381194402201,1096,"Bartlett HAC, bandwidth 14"
+dynamic_state_daily_co2,co2_kt,linearmodels_IV2SLS,wind_gwh,-0.2280353961459966,0.015771493072583423,-0.2589814119983258,-0.1970893802936674,0.0,1089,"Bartlett HAC, bandwidth 14"
+dynamic_state_daily_co2,co2_kt,linearmodels_IV2SLS,solar_gwh,-0.29395038799230805,0.11095593035472216,-0.5116624310984921,-0.076238344886124,0.008183974106177105,1089,"Bartlett HAC, bandwidth 14"

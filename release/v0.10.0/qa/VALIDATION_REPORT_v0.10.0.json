@@ -1,0 +1,156 @@
+{
+  "version": "v0.10.0",
+  "status": "PASS",
+  "checks": [
+    {
+      "check": "baseline_sha256",
+      "status": "PASS",
+      "detail": "dc5f5348f5f82f78ec252cbc607703543f7186702bea790c6606c329e30749dc"
+    },
+    {
+      "check": "baseline_zip_integrity",
+      "status": "PASS",
+      "detail": "entries=801; bad=None"
+    },
+    {
+      "check": "baseline_internal_manifest",
+      "status": "PASS",
+      "detail": "checked=800; mismatches=0"
+    },
+    {
+      "check": "pdf_pages",
+      "status": "PASS",
+      "detail": "46"
+    },
+    {
+      "check": "pdf_a4",
+      "status": "PASS",
+      "detail": "all pages"
+    },
+    {
+      "check": "pdf_portrait",
+      "status": "PASS",
+      "detail": "all pages"
+    },
+    {
+      "check": "pdf_metadata_title",
+      "status": "PASS",
+      "detail": "Electricidad argentina: cambio, límites y decisiones"
+    },
+    {
+      "check": "pdf_metadata_author",
+      "status": "PASS",
+      "detail": "Sebastián Liscia"
+    },
+    {
+      "check": "pdf_fonts_embedded",
+      "status": "PASS",
+      "detail": "fonts=7; not_embedded=[]"
+    },
+    {
+      "check": "pdf_links",
+      "status": "PASS",
+      "detail": "74"
+    },
+    {
+      "check": "pdf_bookmarks",
+      "status": "PASS",
+      "detail": "18"
+    },
+    {
+      "check": "pdf_selectable_text",
+      "status": "PASS",
+      "detail": "characters=93695"
+    },
+    {
+      "check": "front_order_letter",
+      "status": "PASS",
+      "detail": "Carta del autor: Es aquí el autor quien les escribe. El auto"
+    },
+    {
+      "check": "author_letter_literal",
+      "status": "PASS",
+      "detail": "reference_chars=12522; pdf_chars=12522"
+    },
+    {
+      "check": "front_order_toc_before_body",
+      "status": "PASS",
+      "detail": "toc=12949; chapter1=13096"
+    },
+    {
+      "check": "required_scope_sentence",
+      "status": "PASS",
+      "detail": "count=1"
+    },
+    {
+      "check": "eleven_chapters",
+      "status": "PASS",
+      "detail": "missing=[]"
+    },
+    {
+      "check": "buenos_aires_literal",
+      "status": "PASS",
+      "detail": "literal category present"
+    },
+    {
+      "check": "pdf_no_raw_tokens_or_filenames",
+      "status": "PASS",
+      "detail": "hits=[]"
+    },
+    {
+      "check": "scope_forbidden_sections_absent",
+      "status": "PASS",
+      "detail": "hits=[]"
+    },
+    {
+      "check": "figure_count",
+      "status": "PASS",
+      "detail": "28"
+    },
+    {
+      "check": "map_count",
+      "status": "PASS",
+      "detail": "4"
+    },
+    {
+      "check": "figure_interpretation_complete",
+      "status": "PASS",
+      "detail": "failures=[]"
+    },
+    {
+      "check": "canonical_metrics_present",
+      "status": "PASS",
+      "detail": "rows=100"
+    },
+    {
+      "check": "regional_structural_nuclear_zeros",
+      "status": "PASS",
+      "detail": "rows=16"
+    },
+    {
+      "check": "scenario_boundary",
+      "status": "PASS",
+      "detail": "rows=4"
+    },
+    {
+      "check": "node_crosswalk_counts",
+      "status": "PASS",
+      "detail": "{\"MATCHED_SPATIAL_AND_NAME\": 94, \"MATCHED_SPATIAL_ONLY\": 6, \"MISSING_COORDINATES\": 3, \"NO_CONFIDENT_MATCH\": 308}"
+    },
+    {
+      "check": "figure_png_integrity",
+      "status": "PASS",
+      "detail": "count=28; bad=[]"
+    },
+    {
+      "check": "release_manifest",
+      "status": "PASS",
+      "detail": "listed=213; physical=214; mismatches=0"
+    },
+    {
+      "check": "zero_active_fail",
+      "status": "PASS",
+      "detail": "files=[]"
+    }
+  ]
+}

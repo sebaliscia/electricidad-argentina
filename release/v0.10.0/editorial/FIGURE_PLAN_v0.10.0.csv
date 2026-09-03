@@ -1,0 +1,29 @@
+figure_id,title_es,chapter,purpose,data_source,png,vector,map_flag,planned_status
+F01,Cuatro cortes del sistema eléctrico,1,abrir la secuencia 2005–2025,"CAMMESA, Estadísticas anuales 2005–2025",figures/png/F01.png,figures/vector/F01.svg,NO,PASS
+F02,Puente contable de la oferta 2018–2025,1,separar contribuciones al cambio,CAMMESA; base científica canónica v0.8.3,figures/png/F02.png,figures/vector/F02.svg,NO,PASS
+F03,"Demanda, punta y factor de carga",3,mostrar divergencia entre energía y capacidad,CAMMESA; base científica canónica v0.8.3,figures/png/F03.png,figures/vector/F03.svg,NO,PASS
+F04,Composición de la demanda local,3,diferenciar usos detrás del total anual,CAMMESA; base científica canónica v0.8.3,figures/png/F04.png,figures/vector/F04.svg,NO,PASS
+F05,Curva de duración de la demanda horaria,3,explicar duración y rareza de puntas,"CAMMESA, oferta horaria 2023–2025",figures/png/F05.png,figures/vector/F05.svg,NO,PASS
+F06,Despacho medio en las 100 horas de mayor demanda,3,vincular punta con composición horaria,CAMMESA; base científica canónica v0.8.3,figures/png/F06.png,figures/vector/F06.svg,NO,PASS
+F07,Rampas horarias de demanda y carga neta,3,mostrar necesidad de flexibilidad,CAMMESA; base científica canónica v0.8.3,figures/png/F07.png,figures/vector/F07.svg,NO,PASS
+F08,Potencia y generación renovable por tecnología,4,distinguir capacidad de energía,"CAMMESA, base renovable y estadísticas anuales",figures/png/F08.png,figures/vector/F08.svg,NO,PASS
+F09,Generación renovable por programa,4,mostrar coexistencia de instrumentos,"CAMMESA, base de renovables 2026-06",figures/png/F09.png,figures/vector/F09.svg,NO,PASS
+F10,Punta y exceso térmico horario,3,explicar sensibilidad meteorológica sin causalidad,CAMMESA; NASA POWER; base científica canónica v0.8.3,figures/png/F10.png,figures/vector/F10.svg,NO,PASS
+F11,Trayectorias de la gran hidráulica,5,separar complejos y fronteras,CAMMESA; base científica canónica v0.8.3,figures/png/F11.png,figures/vector/F11.svg,NO,PASS
+F12,Descomposición de Yacyretá 2018–2025,5,separar producción de reparto binacional,CAMMESA; método Shapley,figures/png/F12.png,figures/vector/F12.svg,NO,PASS
+F13,"Generación, disponibilidad y utilización en Comahue",5,evitar atribuir toda caída a equipos,CAMMESA; base científica canónica v0.8.3,figures/png/F13.png,figures/vector/F13.svg,NO,PASS
+F14,Generación térmica y emisiones directas,6,vincular energía térmica con emisiones,CAMMESA; base científica canónica v0.8.3,figures/png/F14.png,figures/vector/F14.svg,NO,PASS
+F15,Descomposición LMDI de emisiones,6,explicar factores detrás del cambio,CAMMESA; método Ang (2005),figures/png/F15.png,figures/vector/F15.svg,NO,PASS
+F16,Asociación horaria entre renovables y generación térmica,6,comunicar estimaciones con cautela causal,CAMMESA; NASA POWER; base científica canónica v0.8.3,figures/png/F16.png,figures/vector/F16.svg,NO,PASS
+F17,Intercambios eléctricos internacionales,8,distinguir volumen de saldo,CAMMESA; base científica canónica v0.8.3,figures/png/F17.png,figures/vector/F17.svg,NO,PASS
+M01,Mapa nacional de infraestructura y generación,7,ubicar red y tecnologías sin inferir operación,Secretaría de Energía; IGN; CAMMESA,figures/png/M01.png,figures/vector/M01.svg,YES,PASS
+M02,Mapa de demanda y generación renovable,7,mostrar desajuste territorial,CAMMESA; IGN,figures/png/M02.png,figures/vector/M02.svg,YES,PASS
+M03,Corredores y ampliaciones regionales,7,"separar activo existente, prioridad y dato faltante",Secretaría de Energía; CAMMESA; normativa 2025,figures/png/M03.png,figures/vector/M03.svg,YES,PASS
+M04,Cobertura espacial de nodos AlmaMDI,7,auditar alcance espacial del insumo nodal,AlmaMDI; Secretaría de Energía; IGN,figures/png/M04.png,figures/vector/M04.svg,YES,PASS
+F22,Estructura regional de generación 2025,8,comparar composición con frontera común,Ember/OWID 2026,figures/png/F22.png,figures/vector/F22.svg,NO,PASS
+F23,Movimiento regional 2018–2025,8,comparar cambios por fuente,Ember/OWID 2026,figures/png/F23.png,figures/vector/F23.svg,NO,PASS
+F24,Velocidad regional de eólica y solar,8,comparar crecimiento sin ocultar base,Ember/OWID 2026,figures/png/F24.png,figures/vector/F24.svg,NO,PASS
+F25,Generación renovable y fósil por habitante,8,normalizar por población,Ember/OWID; World Bank WDI,figures/png/F25.png,figures/vector/F25.svg,NO,PASS
+F26,Horizontes de las implicancias estratégicas,9,ordenar prioridades por horizonte,Síntesis trazable v0.10.0,figures/png/F26.png,figures/vector/F26.svg,NO,PASS
+F27,Matriz preliminar de capacidades tecnológicas nacionales,9,mostrar evidencia y brechas sin porcentajes inventados,Fuentes primarias institucionales y técnicas,figures/png/F27.png,figures/vector/F27.svg,NO,PASS
+F28,Sensibilidad acotada de carga neta y rampas,9,probar tensiones sin falsa precisión,CAMMESA horario 2025; supuestos v0.10.0,figures/png/F28.png,figures/vector/F28.svg,NO,PASS

@@ -1,0 +1,6 @@
+metric,definition,unit,included,excluded_or_limit
+generation_twh,Generación eléctrica dentro de la frontera armonizada,TWh,incluye todas las fuentes registradas por Ember/OWID,no equivale automáticamente a oferta interna nacional
+renewables,Hidráulica + eólica + solar + otras renovables,TWh y %,misma taxonomía armonizada para cuatro países,no equivale a la definición legal argentina
+fossil,Generación fósil como cierre no negativo,TWh y %,misma frontera física,no es consumo de combustibles
+per_capita,Generación armonizada dividida por población 2025,MWh/hab,población WDI común,no mide consumo final por habitante
+structural_zero,Nuclear en Chile y Uruguay,TWh,cero estructural retenido,no imputar desde redondeos

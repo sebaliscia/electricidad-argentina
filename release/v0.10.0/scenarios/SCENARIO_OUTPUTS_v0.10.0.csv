@@ -1,0 +1,5 @@
+caso,punta_carga_neta_gw,rampa_neta_p99_gw_h,factibilidad_despacho,estado
+observado,24.2715,2.02558,NO_PROBADA,PASS_WITH_LIMITATION
+demanda_mas_5,25.6177,2.09509,NO_PROBADA,PASS_WITH_LIMITATION
+eolica_solar_mas_25,23.8740,2.18385,NO_PROBADA,PASS_WITH_LIMITATION
+combinado,25.1477,2.24579,NO_PROBADA,PASS_WITH_LIMITATION

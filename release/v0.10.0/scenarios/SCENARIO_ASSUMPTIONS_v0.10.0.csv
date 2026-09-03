@@ -1,0 +1,5 @@
+caso,factor_demanda,factor_eolica_solar,perfil_temporal,almacenamiento,vertimiento,red,despacho_endogeno,interpretacion
+observado,1.00,1.00,observado_2025,NO_MODELADO,NO_MODELADO,NO_MODELADA,NO_MODELADO,referencia descriptiva
+demanda_mas_5,1.05,1.00,observado_2025,NO_MODELADO,NO_MODELADO,NO_MODELADA,NO_MODELADO,sensibilidad mecánica
+eolica_solar_mas_25,1.00,1.25,observado_2025,NO_MODELADO,NO_MODELADO,NO_MODELADA,NO_MODELADO,sensibilidad mecánica
+combinado,1.05,1.25,observado_2025,NO_MODELADO,NO_MODELADO,NO_MODELADA,NO_MODELADO,sensibilidad mecánica

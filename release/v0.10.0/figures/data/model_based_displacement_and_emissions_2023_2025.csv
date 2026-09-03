@@ -1,0 +1,2 @@
+period,thermal_displacement_twh,ci_low_twh,ci_high_twh,illustrative_avoided_co2_mt,co2_ci_low_mt,co2_ci_high_mt,interpretation
+2023-2025,30.263602264180346,27.967773203699245,32.559431324661446,13.48190544197647,12.448224181617114,14.515586702335828,Model-based equivalent; average thermal intensity; not a causal marginal-emissions estimate

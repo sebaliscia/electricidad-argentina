@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="595" height="842" viewBox="0 0 595 842">
+  <rect width="595" height="842" fill="#123B4A"/>
+  <g stroke="#58B9AA" stroke-width="3" opacity=".55" fill="none">
+    <path d="M60 760 L145 655 L118 540 L210 435 L175 290 L292 95"/>
+    <path d="M86 792 L185 690 L264 575 L340 452 L445 325 L535 145"/>
+    <path d="M220 815 L302 695 L390 610 L452 500 L540 405"/>
+  </g>
+  <g stroke="#fff" stroke-width="2">
+    <circle cx="145" cy="655" r="12" fill="#188B86"/><circle cx="210" cy="435" r="9" fill="#D9A441"/>
+    <circle cx="292" cy="95" r="8" fill="#D8684A"/><circle cx="264" cy="575" r="15" fill="#58B9AA"/>
+    <circle cx="445" cy="325" r="11" fill="#D9A441"/><circle cx="452" cy="500" r="13" fill="#188B86"/>
+  </g>
+  <rect x="62" y="192" width="94" height="5" fill="#D9A441"/>
+  <text x="62" y="240" fill="#fff" font-family="sans-serif" font-size="36" font-weight="700">Electricidad argentina:</text>
+  <text x="62" y="282" fill="#fff" font-family="sans-serif" font-size="36" font-weight="700">cambio, límites</text>
+  <text x="62" y="324" fill="#fff" font-family="sans-serif" font-size="36" font-weight="700">y decisiones</text>
+  <text x="62" y="372" fill="#DCE9E8" font-family="sans-serif" font-size="17">Evolución 2005–2025, red 2026 y capacidades nacionales</text>
+  <text x="62" y="785" fill="#DCE9E8" font-family="sans-serif" font-size="14">Sebastián Liscia · v0.10.0 · revisión del autor</text>
+</svg>

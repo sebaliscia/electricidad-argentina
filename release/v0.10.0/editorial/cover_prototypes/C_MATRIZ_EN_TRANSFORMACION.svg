@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="595" height="842" viewBox="0 0 595 842">
+  <rect width="595" height="842" fill="#fff"/>
+  <g transform="translate(58 80)">
+    <rect width="185" height="185" rx="18" fill="#123B4A"/><rect x="205" width="130" height="185" rx="18" fill="#188B86"/>
+    <rect x="355" width="122" height="88" rx="18" fill="#D9A441"/><rect x="355" y="108" width="122" height="77" rx="18" fill="#D8684A"/>
+    <rect y="205" width="130" height="98" rx="18" fill="#58B9AA"/><rect x="150" y="205" width="327" height="98" rx="18" fill="#EDF3F2"/>
+  </g>
+  <text x="58" y="455" fill="#123B4A" font-family="sans-serif" font-size="39" font-weight="700">Del cambio de la matriz</text>
+  <text x="58" y="501" fill="#123B4A" font-family="sans-serif" font-size="39" font-weight="700">a la transformación</text>
+  <text x="58" y="547" fill="#123B4A" font-family="sans-serif" font-size="39" font-weight="700">del sistema eléctrico</text>
+  <text x="58" y="593" fill="#123B4A" font-family="sans-serif" font-size="39" font-weight="700">argentino</text>
+  <text x="58" y="665" fill="#66757C" font-family="sans-serif" font-size="17">Energía · potencia · agua · red · capacidades</text>
+  <text x="58" y="780" fill="#66757C" font-family="sans-serif" font-size="15">Prototipo alternativo C · v0.10.0</text>
+</svg>

@@ -1,0 +1,6 @@
+extension_id,layer,purpose,source_authority,changes_inherited_metrics,method,status,limitation
+EXT_GIS_01,spatial,official network and relief atlas,Secretaría de Energía; IGN; CAMMESA,NO,geometry conversion and visual cross-check,PASS_WITH_LIMITATION,no flows or residual capacity
+EXT_NODE_02,spatial,link AlmaMDI nodes to official stations,AlmaMDI; Secretaría de Energía,NO,name normalization plus Haversine distance,PASS_WITH_LIMITATION,308 records lack a confident match
+EXT_REG_03,regional,common four-country comparison,Ember/OWID; World Bank WDI,NO,harmonized boundary and per-capita normalization,PASS_WITH_LIMITATION,harmonized series differ from national closures
+EXT_CAP_04,strategy,preliminary national capability matrix,primary institutional and technical sources,NO,evidence-class matrix,PASS_WITH_LIMITATION,existence does not establish scale or full local integration
+EXT_STRESS_05,scenarios,bounded peak and ramp sensitivity,CAMMESA hourly 2025,NO,transparent profile scaling,PASS_WITH_LIMITATION,no dispatch network storage or curtailment

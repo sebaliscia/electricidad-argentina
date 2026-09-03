@@ -1,0 +1,446 @@
+gid,name,full_name,technology_label,fun,ppc,original_source,longitude,latitude
+1076,Cabrería,Central Térmica Cabrería,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-66.25706113199993,-22.078913231999934
+1077,Timón Cruz,Central Solar Timón Cruz,Central Solar,6.000000000000000,3.000000000000000,IGN/Secretaría de Gobierno de Energía,-66.15682328599996,-22.19027078299996
+1078,Orosmayo,Central Solar Orosmayo,Central Solar,6.000000000000000,3.000000000000000,IGN/Secretaría de Gobierno de Energía,-66.35610799999995,-22.557280999999932
+1079,Libertador General San Martín,Central Térmica Libertador General San Martín,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-64.78457613799998,-23.822165756999937
+1080,Agua Chica,Central Térmica Agua Chica,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-65.75791991599993,-22.864112357999943
+1082,Misa Rumi,Central Térmica Misa Rumi,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-66.36781496799995,-22.25997746799993
+1083,Misa Rumi,Central Eólica Misa Rumi,Central Eólica,6.000000000000000,5.000000000000000,IGN/Secretaría de Gobierno de Energía,-66.36732977699995,-22.260285909999936
+1084,Cusi Cusi,Pequeño Aprovechamiento Hidroeléctrico Cusi Cusi,Pequeño Aprovechamiento Hidroeléctrico,6.000000000000000,1.000000000000000,IGN/Secretaría de Gobierno de Energía,-66.51473169599996,-22.332648077999977
+1085,La Ciénaga,Pequeño Aprovechamiento Hidroeléctrico La Ciénaga,Pequeño Aprovechamiento Hidroeléctrico,6.000000000000000,1.000000000000000,IGN/Secretaría de Gobierno de Energía,-65.27508063899995,-24.43384856299997
+1086,Las Maderas,Central Hidroeléctrica Las Maderas,Central Hidroeléctrica,6.000000000000000,1.000000000000000,IGN/Secretaría de Gobierno de Energía,-65.21967320799996,-24.44420594199994
+1087,Pampichuela,Pequeño Aprovechamiento Hidroeléctrico Pampichuela,Pequeño Aprovechamiento Hidroeléctrico,6.000000000000000,1.000000000000000,IGN/Secretaría de Gobierno de Energía,-65.01003153499994,-23.55401881599994
+1088,,,,6.000000000000000,7.000000000000000,IGN/Esri World Imagery,-65.68611845699996,-23.211547606999943
+1089,San José de Pozo Colorado,Central Solar San José de Pozo Colorado,Central Solar,6.000000000000000,3.000000000000000,IGN/Secretaría de Gobierno de Energía,-65.81887233799995,-23.552647217999947
+1090,Nazareno,Central Térmica Nazareno,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-65.11666599999995,-22.499721999999963
+1091,Caspalá,Central Térmica Caspalá,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-65.08869392099996,-23.36342201499997
+1100,Ingenio Ledesma,Central Eléctrica Ingenio Ledesma,Central Eléctrica,6.000000000000000,7.000000000000000,IGN/Esri World Imagery,-64.81212932699998,-23.828507978999937
+1101,El Moreno,Central Térmica El Moreno,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-65.83262875999998,-23.854661781999937
+1102,Iruya,Central Térmica Iruya,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-65.21802467499998,-22.797870152999963
+1108,"Ciénega de Paicone","Central Hidroeléctrica Ciénega de Paicone",Central Hidroeléctrica,6.000000000000000,1.000000000000000,IGN/Secretaría de Gobierno de Energía,-66.41391099999998,-22.177085999999974
+1109,Valle Grande,Pequeño Aprovechamiento Hidroeléctrico Valle Grande,Pequeño Aprovechamiento Hidroeléctrico,6.000000000000000,1.000000000000000,IGN/Secretaría de Gobierno de Energía,-64.94960399999997,-23.47612399999997
+1110,San Francisco,Pequeño Aprovechamiento Hidroeléctrico San Francisco,Pequeño Aprovechamiento Hidroeléctrico,6.000000000000000,1.000000000000000,IGN/Secretaría de Gobierno de Energía,-64.95178603099998,-23.622233191999953
+1111,Río Reyes,Pequeño Aprovechamiento Hidroeléctrico Río Reyes,Pequeño Aprovechamiento Hidroeléctrico,6.000000000000000,1.000000000000000,IGN/Secretaría de Gobierno de Energía,-65.49160668799993,-24.169443573999956
+1112,Casa Colorada,Central Térmica Casa Colorada,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-66.28376899999995,-22.326588999999956
+1113,Ciénega de Paicone,Central Térmica Ciénega de Paicone,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-66.43662199999994,-22.182803999999976
+1114,Ciénega de Paicone,Central Solar Ciénega de Paicone,Central Solar,6.000000000000000,3.000000000000000,IGN/Secretaría de Gobierno de Energía,-66.43662199999994,-22.182803999999976
+1115,Misa Rumi,Central Solar Misa Rumi,Central Solar,6.000000000000000,3.000000000000000,IGN/Secretaría de Gobierno de Energía,-66.36763940399999,-22.26011753399996
+1116,Paicone,Central Térmica Paicone,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-66.42572499999994,-22.21945599999998
+1117,San Francisco,Central Solar San Francisco,Central Solar,6.000000000000000,3.000000000000000,IGN/Secretaría de Gobierno de Energía,-66.17362817799994,-22.00125845699995
+1118,San Juan y Oros,Central Solar San Juan y Oros,Central Solar,6.000000000000000,3.000000000000000,IGN/Secretaría de Gobierno de Energía,-66.24889899999994,-22.225247999999965
+1119,Piedra Negra,Central Térmica Piedra Negra,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-65.63013799999999,-22.20060799999993
+1120,La Quiaca,Central Térmica La Quiaca,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-65.59391399999998,-22.10651299999995
+1121,Liviara,Central Térmica Liviara,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-66.33822499999997,-22.52078599999993
+1122,Santo Domingo,Central Térmica Santo Domingo,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-66.22296899999998,-22.54287599999998
+1123,Coyaguaima,Central Solar Coyaguaima,Central Solar,6.000000000000000,3.000000000000000,IGN/Secretaría de Gobierno de Energía,-66.43993999999998,-22.769145999999978
+1124,Nueva Pirquitas,Central Térmica Nueva Pirquitas,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-66.45646899999997,-22.686382999999978
+1125,El Toro,Central Térmica El Toro,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-66.70134699999994,-23.08358599999997
+1126,Jama,Central Térmica Jama,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-67.01973836699995,-23.240149093999946
+1127,Coranzulí,Central Térmica Coranzulí,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-66.36636299999998,-23.015920999999935
+1128,Olaroz Chico,Central Térmica Olaroz Chico,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-66.80281099999996,-23.393505999999945
+1129,Cobres,Central Térmica Cobres,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-66.28363313099999,-23.651020251999967
+1130,Susques,Central Térmica Susques,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-66.36708806099995,-23.39928236399993
+1131,Abdón Castro Tolay,Central Térmica Abdón Castro Tolay,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-66.09045599999996,-23.34219399999995
+1132,Huancar,Central Térmica Huancar,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-66.40968299999997,-23.564828999999975
+1133,Santa Ana,Central Solar Santa Ana,Central Solar,6.000000000000000,3.000000000000000,IGN/Secretaría de Gobierno de Energía,-64.98930809899997,-23.354504477999967
+1134,Catua,Central Térmica Catua,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-67.00509899999997,-23.87110999999993
+1135,Pastos Chicos,Central Térmica Pastos Chicos,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-66.43895799999996,-23.765630999999928
+1136,Sey,Central Térmica Sey,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-66.48826099999997,-23.94643899999994
+1137,Olacapato,Central Térmica Olacapato,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-66.71923170599996,-24.139481952999972
+1146,El Angosto,Central Térmica El Angosto,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-66.18559355299993,-21.87612734299995
+1148,San Sebastián,Central Eléctrica San Sebastián,Central Eléctrica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-68.15301126399999,-53.36509228999995
+1149,Manantiales Behr,Central Eléctrica Manantiales Behr,Central Eléctrica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-67.66128191399997,-45.55951624199997
+1150,San Antonio,Central Eléctrica San Antonio,Central Eléctrica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-65.32233999999994,-41.13285999999994
+1152,Río Seco,Central Eléctrica Río Seco,Central Eléctrica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-67.76980709799994,-48.54294681999994
+1153,Cervantes,Central Eléctrica Cervantes,Central Eléctrica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-67.32685102199997,-38.98380248099994
+1154,Chelforó,Central Eléctrica Chelforó,Central Eléctrica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-66.53553278699997,-39.02493910399994
+1155,Fortín Uno,Central Eléctrica Fortín Uno,Central Eléctrica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-65.18398416999997,-39.030386230999966
+1156,,,,6.000000000000000,-1.000000000000000,IGN/Secretaría de Gobierno de Energía,-63.36471999299994,-39.29803234199994
+1157,Guillermo Brown,Central Termoeléctrica Guillermo Brown,Central Termoeléctrica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-62.41540900899997,-38.68497494899998
+1160,Rincón de los Sauces,Central Térmica Rincón de los Sauces,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-67.94702999999998,-38.05998999999997
+1161,,,,6.000000000000000,-1.000000000000000,IGN/Secretaría de Gobierno de Energía,-67.73356999999999,-37.556239999999946
+1163,La Mora,Central Eléctrica La Mora,Central Eléctrica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-66.82984019899993,-35.10581624799994
+1164,La Carlota,Central Eléctrica La Carlota,Central Eléctrica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-63.55966999999998,-33.32280999999995
+1165,Magallanes,Central Eléctrica Magallanes,Central Eléctrica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-68.40309231499998,-52.32865210999995
+1166,Dolavon,Central Térmica Dolavon,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-65.92225892899995,-43.60088634299996
+1167,San Sebastián,Central Eléctrica San Sebastián,Central Eléctrica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-68.14900805899998,-53.350821233999966
+1169,Pico Truncado,Central Térmica Pico Truncado,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-67.95018257899994,-46.78429829399994
+1170,Bosque Petrificado,Central Eléctrica Bosque Petrificado,Central Eléctrica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-67.37235999999996,-47.675539999999955
+1171,Bajo del Gualicho,Central Eléctrica Bajo del Gualicho,Central Eléctrica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-65.63682936699996,-42.328164081999944
+1172,Garayalde,Central Eléctrica Garayalde,Central Eléctrica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-66.61418999999995,-44.68598999999995
+1173,Belisle,Central Eléctrica Belisle,Central Eléctrica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-65.87811453899997,-39.03294278599998
+1174,Gaviotas,Central Eléctrica Gaviotas,Central Eléctrica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-63.72298782699994,-38.93855698899995
+1175,Indio Rico,Central Térmica Indio Rico,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-61.01693194799998,-38.24230396399997
+1176,Barker,Central Eléctrica Barker,Central Eléctrica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-59.48707008699995,-37.555441936999955
+1177,Ordoqui,Central Eléctrica Ordoqui,Central Eléctrica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-61.152522629999964,-35.864687914999934
+1178,Saturno,Central Eléctrica Saturno,Central Eléctrica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-62.65893714499998,-36.85370194799998
+1179,San Julián,Central Eléctrica San Julián,Central Eléctrica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-68.18126043799998,-49.60399137099995
+1180,Beazley,Central Eléctrica Beazley,Central Eléctrica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-66.64544700099998,-33.79496302999996
+1181,Dean Funes,Central Eléctrica Dean Funes,Central Eléctrica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-64.37157720699997,-30.37843966799994
+1182,Lavalle,Central Eléctrica Lavalle,Central Eléctrica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-65.10844785899997,-28.09360443299994
+1183,Papagayos,Central Eléctrica Papagayos,Central Eléctrica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-69.08257188499994,-34.25232988799996
+1185,Lumbreras,Central Eléctrica Lumbreras,Central Eléctrica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-64.94552999999996,-25.208129999999983
+1186,,,,6.000000000000000,-1.000000000000000,IGN/Secretaría de Gobierno de Energía,-63.96628342499997,-31.477605998999934
+1187,,,,6.000000000000000,-1.000000000000000,IGN/Secretaría de Gobierno de Energía,-61.076344450999954,-32.86795373099994
+1189,,,,6.000000000000000,-1.000000000000000,IGN/Secretaría de Gobierno de Energía,-62.30621241499995,-33.14303850899995
+1190,,,,6.000000000000000,-1.000000000000000,IGN/Secretaría de Gobierno de Energía,-65.12633268099995,-27.666243357999974
+1191,,Usina Nuclear,Usina Nuclear,6.000000000000000,2.000000000000000,IGN/Secretaría de Gobierno de Energía,-67.47243450799994,-45.733792620999964
+1192,Arturo Zanichelli Pilar,Central Termoeléctrica Arturo Zanichelli Pilar,Central Termoeléctrica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-63.83208051899999,-31.664306609999983
+1193,Ingeniero Guillermo Céspedes,Central Hidroeléctrica Ingeniero Guillermo Céspedes,Central Hidroeléctrica,6.000000000000000,1.000000000000000,IGN/Secretaría de Gobierno de Energía,-65.69149780299995,-39.56816863999995
+1194,Cabra Corral,Central Hidráulica Cabra Corral,Central Hidráulica,6.000000000000000,1.000000000000000,IGN/Secretaría de Gobierno de Energía,-65.32994999999994,-25.27191666699997
+1195,,,,6.000000000000000,-1.000000000000000,IGN/Secretaría de Gobierno de Energía,-67.61952956699997,-46.54760404099994
+1197,Río Pico,Central Térmica Río Pico,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-71.32898897999996,-44.18754694499995
+1198,San Roque,Central Hidráulica San Roque,Central Hidráulica,6.000000000000000,1.000000000000000,IGN/Secretaría de Gobierno de Energía,-64.39383029999993,-31.353307099999938
+1199,Fitz Simón,Central Hidroeléctrica Fitz Simón,Central Hidroeléctrica,6.000000000000000,1.000000000000000,IGN/Secretaría de Gobierno de Energía,-64.42071679999998,-32.17841619999996
+1200,Los Divisaderos,Central Hidroeléctrica Los Divisaderos,Central Hidroeléctrica,6.000000000000000,1.000000000000000,IGN/Secretaría de Gobierno de Energía,-67.68971531899996,-37.87155152299994
+1201,,,,6.000000000000000,-1.000000000000000,IGN/Secretaría de Gobierno de Energía,-67.53485770899994,-37.100424835999945
+1202,Nihuil I,Central Hidroeléctrica Nihuil I,Central Hidroeléctrica,6.000000000000000,1.000000000000000,IGN/Secretaría de Gobierno de Energía,-68.63071937599994,-34.995056930999965
+1203,Nihuil II,Central Hidroeléctrica Nihuil II,Central Hidroeléctrica,6.000000000000000,1.000000000000000,IGN/Secretaría de Gobierno de Energía,-68.61772499999995,-34.90393099999994
+1204,Nihuil III,Central Hidroeléctrica Nihuil III,Central Hidroeléctrica,6.000000000000000,1.000000000000000,IGN/Secretaría de Gobierno de Energía,-68.57536454499996,-34.882401578999975
+1206,Urugua-í,Central Hidroeléctrica Urugua-í,Central Hidroeléctrica,6.000000000000000,1.000000000000000,IGN/Secretaría de Gobierno de Energía,-54.56870999999995,-25.876629999999977
+1207,El Cadillal,Central Hidroeléctrica El Cadillal,Central Hidroeléctrica,6.000000000000000,1.000000000000000,IGN/Secretaría de Gobierno de Energía,-65.18679460799996,-26.620029514999942
+1208,Pueblo Viejo,Central Hidroeléctrica Pueblo Viejo,Central Hidroeléctrica,6.000000000000000,1.000000000000000,IGN/Secretaría de Gobierno de Energía,-65.77334323499997,-27.116100678999942
+1209,Río Hondo,Central Hidroeléctrica Río Hondo,Central Hidroeléctrica,6.000000000000000,1.000000000000000,IGN/Secretaría de Gobierno de Energía,-64.88585479399995,-27.52328384799995
+1210,Los Quiroga,Central Hidroeléctrica Los Quiroga,Central Hidroeléctrica,6.000000000000000,1.000000000000000,IGN/Secretaría de Gobierno de Energía,-64.30826456699998,-27.691888776999974
+1211,,,,6.000000000000000,-1.000000000000000,IGN/Secretaría de Gobierno de Energía,-67.94072902599999,-37.98969942399998
+1212,Casa de Piedra,Central Hidroeléctrica Casa de Piedra,Central Hidroeléctrica,6.000000000000000,1.000000000000000,IGN/Secretaría de Gobierno de Energía,-67.19084099999998,-38.21431999999993
+1213,Río Corralito,Central Hidráulica Río Corralito,Central Hidráulica,6.000000000000000,1.000000000000000,IGN/Secretaría de Gobierno de Energía,-65.68554634899994,-24.98277451499996
+1214,Añatuya,Central Térmica Añatuya,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-62.855661227999974,-28.445167024999932
+1216,Luis Piedra Buena,Central Termoeléctrica Luis Piedra Buena,Central Termoeléctrica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-62.25360999999998,-38.78722199999993
+1217,Atucha II,Central Nuclear Atucha II,Central Nuclear,6.000000000000000,2.000000000000000,IGN/Secretaría de Gobierno de Energía,-59.20488100699998,-33.967154551999954
+1218,San Nicolás,Central Térmica San Nicolás,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-60.17354622499994,-33.35675407599996
+1223,Futaleufú,Central Hidroeléctrica Futaleufú,Central Hidroeléctrica,6.000000000000000,1.000000000000000,IGN/Secretaría de Gobierno de Energía,-71.62997999999999,-43.12877999999995
+1224,Comodoro R?ivadavia,Central Térmica Comodoro Rivadavia,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-67.44342496499996,-45.814516055999945
+1225,Cruz del Eje,Central Hidroeléctrica Cruz del Eje,Central Hidroeléctrica,6.000000000000000,1.000000000000000,IGN/Secretaría de Gobierno de Energía,-64.75380419999993,-30.763705899999934
+1227,Olpas,Central Eléctrica Olpas,Central Eléctrica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-66.27052261299997,-30.85654872599997
+1228,Cafayate,Central Térmica Cafayate,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-65.98770573199994,-26.071480683999937
+1229,El Bracho,Central Termoeléctrica El Bracho,Central Termoeléctrica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-65.16152850999998,-26.994970588999934
+1230,El Bracho,Central Termoeléctrica El Bracho,Central Termoeléctrica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-65.16926887499994,-26.994070853999972
+1234,Amaicha del Valle,Central Térmica Amaicha del Valle,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-65.94001357299999,-26.590097024999977
+1241,Independencia,Central Térmica Independencia,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-65.22251641599996,-26.865827472999968
+1347,Esquina,Central Térmica Esquina,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretraía de Gobierno de Energía,-59.53244204199996,-30.00967574499998
+1254,Ensenada de Barragán,Central Térmica Ensenada de Barragán,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-57.952168040999936,-34.85868001499995
+1255,La Plata,Central Térmica La Plata,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-58.01597936799993,-34.933968869999944
+1284,Chuscha,Central Térmica Chuscha,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-66.02386267399999,-26.054098351999983
+1287,Campo Durán,Central Térmica Campo Durán,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-63.66065789099997,-22.206517376999955
+1288,Pico Truncado I,Central Térmica Pico Truncado I,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-67.94977599999999,-46.78422399999994
+1292,Nihuil IV,Central Hidroeléctrica Nihuil IV,Central Hidroeléctrica,6.000000000000000,1.000000000000000,IGN/Secretaría de Gobierno de Energía,-68.51441278299995,-34.833261377999975
+1293,Atucha I,Central Nuclear Atucha I,Central Nuclear,6.000000000000000,2.000000000000000,IGN/Secretaría de Gobierno de Energía,-59.20733576199996,-33.96675809899995
+1295,Patagonia,Central Térmica Patagonia,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-67.51432148599997,-45.793218141999944
+1296,Dique,Central Térmica Dique,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-57.93303999999995,-34.890218999999945
+1299,Orán,Central Térmica Orán (Mitre),Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-64.32220766999995,-23.14117794799995
+1301,Piquirenda,Central Térmica Piquirenda,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-63.76668832299998,-22.349940791999927
+1302,Tartagal,Central Térmica Tartagal,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-63.806028777999984,-22.540748743999927
+1303,Misión La Paz,Central Térmica Misión La Paz,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-62.51998288699997,-22.37884754099997
+1304,Güemes,Central Térmica Güemes,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-65.04249999999996,-24.68944399999998
+1305,Salta,Central Térmica de ciclo combinado Salta,Central Térmica de ciclo combinado,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-65.05240120299999,-24.74435921099996
+1307,Tolar Grande,Central Térmica Tolar Grande,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-67.39568793599994,-24.591250169999967
+1308,El Tunal,Central Hidroeléctrica El Tunal,Central Hidroeléctrica,6.000000000000000,1.000000000000000,IGN/Secretaría de Gobierno de Energía,-64.47665254399993,-25.227124414999935
+1320,Palmar Largo,Central Térmica Palmar Largo,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-62.043292246999954,-23.18963610999998
+1321,Ingeniero Juárez,Central Térmica Ingeniero Juárez,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-61.83154577399995,-23.90907535699995
+1323,Pirané,Central Térmica Pirané,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-59.07555999999994,-25.678609999999935
+1325,Laguna Blanca,Central Térmica Laguna Blanca,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-58.258959424999944,-25.129106425999964
+1328,Formosa,Central Térmica Formosa,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-58.24952622699993,-26.09711901099996
+1329,Formosa II,Central Térmica Formosa II,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-58.19439007699998,-26.137023819999968
+1332,Aristóbulo del Valle,Central Térmica Aristóbulo del Valle,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-54.862461516999986,-27.092352794999954
+1333,Oberá,Central Térmica Oberá,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-55.12422802899994,-27.500921150999943
+1334,La Tablada,Central Térmica La Tablada,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-55.910400040999946,-27.418493419999947
+1337,Ituzaingó,Central Térmica Ituzaingó,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-56.67199996199997,-27.577897615999973
+1338,Santo Tomé,Central Térmica Santo Tomé,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-56.07255541599994,-28.54992060799998
+1341,Mercedes,Central Térmica Mercedes,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-58.07931899999994,-29.180800999999974
+1342,Curuzú Cuatiá,Central Térmica Curuzú Cuatiá,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-58.05714199999994,-29.797384999999963
+1344,Goya,Central Térmica Goya,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-59.22762916499994,-29.138994141999945
+1345,Goya,Central Térmica Goya,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-59.27340233499996,-29.158331474999954
+1348,Paso de la Patria,Central Térmica Paso de la Patria,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-58.566441415999975,-27.32368616599996
+1350,Corrientes,Central Térmica Corrientes,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-58.80377437699997,-27.471388305999938
+1354,Las Palmas,Central Térmica Las Palmas,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-58.69959083699996,-27.028573042999938
+1365,Villa Angela,Central Térmica Villa Angela,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-60.70971716799994,-27.58085855099995
+1367,Charata,Central Térmica Charata,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-61.19416893699997,-27.23689854199995
+1368,Sáenz Peña I,Central Térmica Sáenz Peña I,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-60.41094138999995,-26.815592367999955
+1369,Sáenz Peña II,Central Térmica Sáenz Peña II,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-60.41250976699996,-26.81539521199994
+1371,Comandancia Frías,Central Térmica Comandancia Frías,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-62.23763112299997,-24.56347846999995
+1372,Santos Lugares,Central Térmica Santos Lugares,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-63.548874265999984,-26.683818617999975
+1374,Pampa de los Guanacos,Central Térmica Pampa de los Guanacos,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-61.836338403999946,-26.232029457999943
+1375,Quimilí,Central Térmica Quimilí,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-62.416180795999935,-27.65189746799996
+1382,San Miguel de Tucumán,Central Térmica San Miguel de Tucumán,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-65.16771019999999,-26.99705148199996
+1384,Escaba,Central Hidroeléctrica Escaba,Central Hidroeléctrica,6.000000000000000,1.000000000000000,IGN/Secretaría de Gobierno de Energía,-65.74709971799996,-27.63680295299997
+1388,Terevintos,Central Térmica Terevintos,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretraía de Gobierno de Energía,-65.78759118299996,-28.428960863999976
+1391,Catamarca,Central Térmica Catamarca,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-65.76480949999996,-28.470884146999936
+1392,Capital Catamarca-Predio Ex Cárcel,Central Térmica Capital Catamarca-Predio Ex Cárcel,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-65.78716099999997,-28.47726099999994
+1393,INTA Catamarca,Central Térmica INTA Catamarca,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-65.72775557499995,-28.473514114999944
+1395,Parque Industrial,Central Térmica Parque Industrial,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-65.79979657099994,-28.53406049399996
+1400,Arauco Sapem I,Parque Eólico Arauco Sapem I,Parque Eólico,6.000000000000000,5.000000000000000,IGN/Secretaría de Gobierno de Energía,-66.73065392599995,-28.69881624599998
+1401,Chilecito,Central Térmica Chilecito,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-67.50709578399994,-29.157825713999955
+1402,La Rioja Sur,Central Térmica La Rioja Sur,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-66.83181064099995,-29.381301316999952
+1403,La Rioja Delivery,Central Térmica La Rioja Delivery,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-66.83273142399997,-29.381295525999974
+1404,La Rioja,Central Térmica La Rioja,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-66.83351901099996,-29.38250007099998
+1407,Dean Funes,Central Térmica Dean Funes,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-64.20621628799995,-31.39325983799995
+1409,Sudoeste,Central Térmica Sudoeste,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-64.23910317699995,-31.46281583299998
+1411,La Viña,Central Hidroeléctrica La Viña,Central Hidroeléctrica,6.000000000000000,1.000000000000000,IGN/Secretaría de Gobierno de Energía,-65.03618229499995,-31.87147768999995
+1412,Los Molinos I,Central Hidroeléctrica Los Molinos I,Central Hidroeléctrica,6.000000000000000,1.000000000000000,IGN/Secretaría de Gobierno de Energía,-64.44622233199993,-31.838116197999966
+1413,Río Grande,Complejo Hidroeléctrico Río Grande,Complejo Hidroeléctrico,6.000000000000000,1.000000000000000,IGN/Secretaría de Gobierno de Energía,-64.63889367399997,-32.223369427999955
+1415,Embalse,Central Nuclear Embalse,Central Nuclear,6.000000000000000,2.000000000000000,IGN/Secretaría de Gobierno de Energía,-64.44374046499996,-32.23181080599994
+1417,Cassaffousth,Central Hidroeléctrica Cassaffousth,Central Hidroeléctrica,6.000000000000000,1.000000000000000,IGN/Secretaría de Gobierno de Energía,-64.37426089999997,-32.17524919999994
+1418,Reolín,Central Hidroeléctrica Benjamín Reolín,Central Hidroeléctrica,6.000000000000000,1.000000000000000,IGN/Secretaría de Gobierno de Energía,-64.32300994799994,-32.19090976899997
+1420,Piedras Moras,Central Hidroeléctrica Piedras Moras,Central Hidroeléctrica,6.000000000000000,1.000000000000000,IGN/Secretaría de Gobierno de Energía,-64.24371239999994,-32.167561699999965
+1421,13 de Julio,Central Termoeléctrica 13 de Julio,Central Termoeléctrica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-64.15390772099994,-32.15939545899994
+1422,Villa María (Las Playas),Central Térmica Villa María (Las Playas),Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-63.19271976099998,-32.43026355999996
+1423,San Francisco,Central Térmica San Francisco,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-62.11181078299995,-31.43876036699993
+1424,Bell Ville,Central Térmica Bell Ville,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-62.68588236499994,-32.61033490899996
+1425,Isla Verde,Central Térmica Isla Verde,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-62.39506195599995,-33.242622335999954
+1426,Isla Verde,Central Térmica Isla Verde,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-62.39468901199996,-33.24215517399995
+1427,Río Cuarto,Central Térmica Río Cuarto,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-64.36366209899995,-33.16155118299997
+1428,Maranzana,Central Termoeléctrica Maranzana,Central Termoeléctrica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-64.36513275999994,-33.160762234999936
+1429,General Levalle,Central Térmica General Levalle,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Goierno de Energía,-63.92292687299994,-34.03661363699996
+1431,Paraná,Central Térmica Paraná,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-60.45478488599997,-31.777138412999932
+1433,Concepción del Uruguay,Central Térmica Concepción del Uruguay,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-58.268217798999956,-32.47246345299993
+1434,Tostado,Central Térmica Tostado,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-61.75755054599995,-29.235232949999954
+1436,Rafaela,Central Térmica Rafaela,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-61.52067370699996,-31.256351278999944
+1437,Ceres,Central Térmica Ceres,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-61.92995764899996,-29.888039703999937
+1439,Brigadier López,Central Térmica Brigadier López,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-60.77939465299994,-31.71044524499996
+1440,Timbúes/Vuelta de Obligado,Central Termoeléctrica Timbúes/Vuelta de Obligado,Central Termoeléctrica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-60.79053629599997,-32.58027376599995
+1442,Sorrento,Central Térmica Sorrento,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-60.67988629599995,-32.905666295999936
+1444,Venado Tuerto,Central Térmica Venado Tuerto,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-61.955944854999984,-33.77736282799998
+1445,Monte Quemado,Central Térmica Monte Quemado,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-62.84109166099995,-25.800817407999943
+1447,Uspallata,Central Térmica Uspallata,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-69.36850801199995,-32.61942203999996
+1448,Cacheuta Nueva,Central Hidroeléctrica Cacheuta (Nueva),Central Hidroeléctrica,6.000000000000000,1.000000000000000,IGN/Secretaría de Gobierno de Energía,-69.11058617499998,-33.02896951199995
+1449,Álvarez Condarco,Central Hidroeléctrica Álvarez Condarco,Central Hidroeléctrica,6.000000000000000,1.000000000000000,IGN/Secretaría de Gobierno de Energía,-69.05087271399998,-33.04439079799994
+1450,Luján de Cuyo,Central Térmica Luján de Cuyo,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-68.98116949699994,-33.05525042099998
+1452,General San Martín,Central Hidroeléctrica General San Martín,Central Hidroeléctrica,6.000000000000000,1.000000000000000,IGN/Secretaría de Gobierno de Energía,-68.92181656499997,-33.045046731999946
+1453,Cruz de Piedra,Central Térmica Cruz de Piedra,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-68.79695725599998,-33.03472005899994
+1458,El Carrizal,Central Hidroeléctrica El Carrizal,Central Hidroeléctrica,6.000000000000000,1.000000000000000,IGN/Secretaría de Gobierno de Energía,-68.72000927199997,-33.29921067799995
+1463,El Tigre,Central Hidroeléctrica El Tigre,Central Hidroeléctrica,6.000000000000000,1.000000000000000,IGN/Secretaría de Gobierno de Energía,-68.61287259099998,-34.60787662699994
+1464,Los Reyunos,Central Hidroeléctrica Los Reyunos,Central Hidroeléctrica,6.000000000000000,1.000000000000000,IGN/Secretaría de Gobierno de Energía,-68.63832999999994,-34.60277776999993
+1466,Los Coroneles (Ex 25 de Mayo),Central Hidroeléctrica Los Coroneles (Ex 25 de Mayo),Central Hidroeléctrica,6.000000000000000,1.000000000000000,IGN/Secretaría de Gobierno de Energía,-68.52827934499999,-34.59977855899996
+1470,Agua del Toro,Central Hidroeléctrica Agua del Toro,Central Hidroeléctrica,6.000000000000000,1.000000000000000,IGN/Secretaría de Gobierno de Energía,-68.98949467799997,-34.57943060699995
+1471,Bardas Blancas,Central Térmica Bardas Blancas,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-69.80501577299998,-35.86811534399993
+1475,Dock Sud,Central Térmica Dock Sud,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-58.342436185999986,-34.653227122999965
+1476,Costanera,Central Termoeléctrica Costanera,Central Termoeléctrica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-58.339762280999935,-34.62592961699994
+1477,Puerto Nuevo,Central Térmica Puerto Nuevo,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-58.384121421999964,-34.57154112999996
+1480,Matheu,Central Termoeléctrica Matheu,Central Termoeléctrica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-58.83714083199993,-34.39263314899995
+1492,Manuel Belgrano,Central Termoeléctrica Manuel Belgrano,Central Termoeléctrica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-59.00656461999995,-34.18420871199993
+1501,Genelba,Central Termoeléctrica Genelba,Central Termoeléctrica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-58.73310751599996,-34.90260179099994
+1502,Magdalena,Central Térmica Magdalena,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-57.48391579999998,-35.10054629999996
+1507,Las Armas,Central Termoeléctrica Las Armas,Central Termoeléctrica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-57.81749437499997,-37.07775608999998
+1509,Villa Gesell,Central Térmica Villa Gesell,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-56.99794789099997,-37.24887919699995
+1513,Pinamar,Central Térmica Pinamar,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-56.87870577999996,-37.09543136199994
+1520,Miramar,Central Térmica Miramar,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-57.82419265799996,-38.24753433199993
+1521,9 de Julio,Central Térmica 9 de Julio,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-57.54566868799998,-38.04961002599998
+1525,Cretal-Tandil,Parque Eólico Cretal-Tandil,Parque Eólico,6.000000000000000,5.000000000000000,IGN/Secretaría de Gobierno de Energía,-59.023716742999966,-37.40331401999998
+1529,Necochea,Central Térmica Necochea,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-58.71043835399996,-38.578326379999965
+1531,Necochea,Parque Eólico Necochea,Parque Eólico,6.000000000000000,5.000000000000000,IGN/Secretaría de Gobierno de Energía,-58.79041492199997,-38.60425299999997
+1532,Claromecó,Central Eólica Claromecó,Central Eólica,6.000000000000000,5.000000000000000,IGN/Secretaría de Gobierno de Energía,-60.08586406099994,-38.82940506699998
+1538,Punta Alta-Pehuen Có,Central Eólica Punta Alta-Pehuen Có,Central Eólica,6.000000000000000,5.000000000000000,IGN/Secretaría de Gobierno de Energía,-61.609592142999986,-38.897177915999976
+1543,Punta Alta-Centenario,Central Eólica Punta Alta-Centenario,Central Eólica,6.000000000000000,5.000000000000000,IGN/Secretaría de Gobierno de Energía,-61.898410299999966,-38.78326059999995
+1545,Pampa II,Parque Eólico Pampa II,Parque Eólico,6.000000000000000,5.000000000000000,IGN/Pampa Energía,-62.04100011899993,-38.678319734999945
+1546,Ingeniero Mario Cebreiro,Parque Eólico Ingeniero Mario Cebreiro,Parque Eólico,6.000000000000000,5.000000000000000,IGN/Pampa Energía,-62.011177387999965,-38.699344580999934
+1553,General Villegas,Central Térmica General Villegas,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-62.99804563499998,-35.034641309999984
+1557,Lincoln,Central Térmica Lincoln,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-61.520767570999965,-34.857385206999936
+1564,Olavarría Delivery,Central Térmica Olavarría Delivery,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-60.23683809299996,-36.94462545599998
+1575,Junín,Central Térmica Junín,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-60.91629588799998,-34.570765354999935
+1581,Ecoenergía,Central Térmica Ecoenergía,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-62.39575996899998,-38.686447441999974
+1585,Mayor Buratovich,Central Eólica Mayor Buratovich,Central Eólica,6.000000000000000,5.000000000000000,IGN/Secretaría de Gobierno de Energía,-62.65095770499994,-39.229289275999975
+1588,Darregueira,Central Eólica Darregueira,Central Eólica,6.000000000000000,5.000000000000000,IGN/Secretaría de Gobierno de Energía,-63.19775067699999,-37.67813724599995
+1595,Tenaris Siderca Cete II,Central Térmica Tenaris Siderca Cete II,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-60.14386233899995,-33.36455029699994
+1601,Paraná,Central Térmica Paraná,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-60.17258126599995,-33.355413458999976
+1603,Bragado,Central Térmica Bragado,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-60.431824947999985,-35.13528644499996
+1604,Salto,Central Térmica Salto,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-60.231901524999955,-34.30201389499996
+1606,Capitán Sarmiento,Central Térmica Capitán Sarmiento,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-59.76844258199998,-34.16375215099998
+1608,Arrecifes,Central Térmica Arrecifes,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-60.130016989999945,-34.04151675899993
+1613,Colón,Central Térmica Colón,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-61.07725364899994,-33.92167013799997
+1614,Salto Andersen,Central Hidroeléctrica Salto Andersen,Central Hidroeléctrica,6.000000000000000,1.000000000000000,IGN/Secretaría de Gobierno de Energía,-64.81717420799998,-38.82131061899997
+1616,La Humada,Central Térmica La Humada,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-68.01523691499995,-36.34949003299994
+1617,Algarrobo del Águila,Central Térmica Algarrobo del Águila,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-67.14611110999994,-36.399166599999944
+1618,Santa Isabel,Central Térmica Santa Isabel,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-66.93795426299994,-36.231179690999966
+1619,Jagüel del Monte,Central Térmica Jagüel del Monte,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretraía de Gobierno de Energía,-65.78366204299994,-36.681068626999945
+1620,General Acha,Central Eólica General Acha,Central Eólica,6.000000000000000,5.000000000000000,IGN/Secretaría de Gobierno de Energía,-64.71408667899993,-37.43104285199996
+1621,Chapalco,Central Térmica Chapalco,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-64.78129958899996,-36.87181474499994
+1627,Villa Regina,Central Térmica Villa Regina,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-67.08818771599994,-39.08805062399995
+1629,El Cuy,Central Térmica El Cuy,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-68.34319130199998,-39.92510292099996
+1630,Los Menucos,Central Térmica Los Menucos,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-68.08696520199999,-40.84205754799996
+1631,Maquinchao,Central Térmica Maquinchao,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-68.70048159199996,-41.25488882999997
+1632,Loma Atravesada,Central Hidroeléctrica Loma Atravesada,Central Hidroeléctrica,6.000000000000000,1.000000000000000,IGN/Secretaría de Gobierno de Energía,-71.53279379999998,-41.81815629999994
+1633,El Bolsón,Central Térmica El Bolsón,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-71.54361061599997,-41.958221987999934
+1634,El Caín,Central Térmica El Caín,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-68.35125858399994,-41.83260615199998
+1643,El Tordillo,Parque Eólico El Tordillo,Parque Eólico,6.000000000000000,5.000000000000000,IGN/Secretaría de Gobierno de Energía,-67.90661560399997,-45.84753105599998
+1645,Diadema Argentina,Parque Eólico Diadema Argentina,Parque Eólico,6.000000000000000,5.000000000000000,IGN/Secretaría de Gobierno de Energía,-67.69409474299994,-45.746558765999964
+1647,Comodoro Rivadavia-Pecorsa - Cerro Arenales,Parque Eólico Comodoro Rivadavia-Pecorsa,Parque Eólico,6.000000000000000,5.000000000000000,IGN/Secretaría de Gobierno de Energía,-67.60154374999996,-45.85100595799997
+1650,Comodoro Rivadavia-Antonio Morán,Parque Eólico Comodoro Rivadavia-Antonio Morán,Parque Eólico,6.000000000000000,5.000000000000000,IGN/Secretraía de Gobierno de Energía,-67.49630107599995,-45.850725963999935
+1651,Rada Tilly,Parque Eólico Rada Tilly,Parque Eólico,6.000000000000000,5.000000000000000,IGN/Secretaría de Gobierno de Energía,-67.57937116699998,-45.916978781999944
+1652,Los Antiguos,Central Térmica Los Antiguos,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-71.62402088999994,-46.55137090799997
+1653,Perito Moreno,Central Térmica Perito Moreno,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-70.92878694099994,-46.59281093799996
+1654,Bajo Caracoles,Central Térmica Bajo Caracoles,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-70.92614420699994,-47.44210726099993
+1656,Los Perales,Central Térmica Los Perales,Central Térmica,6.000000000000000,7.000000000000000,IGN/Esri World Imagery,-69.26556231499995,-46.19679905099997
+1660,Pico Truncado II,Central Térmica Pico Truncado II,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-67.93589830699995,-46.66174652099994
+1662,Jaramillo,Central Térmica Jaramillo,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-67.14317799999998,-47.18311899999998
+1664,Puerto San Julián,Central Térmica Puerto San Julián,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-67.73532682899997,-49.30530898899997
+1665,Puerto Santa Cruz,Central Térmica Puerto Santa Cruz,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-68.53620799999999,-50.02358099999998
+1667,Gobernador Gregores,Central Térmica Gobernador Gregores,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-70.24738464099994,-48.749087772999985
+1668,Río Gallegos I,Central Térmica Río Gallegos I,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-69.38168638499997,-51.65605718599994
+1671,Río Turbio,Central Térmica Río Turbio,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-72.27067850199995,-51.53839355499997
+1672,Río Turbio,Central Termoeléctrica Río Turbio,Central Termoeléctrica,6.000000000000000,7.000000000000000,IGN/Esri World Imagery/YCRT,-72.23001754899997,-51.548522558999935
+1675,Punta Bandera,Central Térmica Punta Bandera,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-72.79140791799995,-50.315152818999934
+1676,El Calafate,Central Eléctrica El Calafate,Central Eléctrica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-72.26809096899996,-50.356501711999954
+1677,El Chaltén,Central Térmica El Chaltén,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-72.88285370399996,-49.331022831999974
+1678,Tres Lagos,Central Térmica Tres Lagos,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-71.44534140699994,-49.59999510599994
+1679,Lago Posadas,Central Térmica Lago Posadas,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-71.74164682899993,-47.56800700699995
+1680,Río Grande,Central Termoeléctrica Río Grande,Central Termoeléctrica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-67.72258037899996,-53.78607193499994
+1681,Tolhuin,Central Térmica Tolhuin,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-67.18883723799996,-54.51278326299996
+1682,Puerto Almanza,Central Térmica Puerto Almanza,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-67.56547218199995,-54.870451195999976
+1683,Ushuaia,Central Termoeléctrica Ushuaia,Central Termoeléctrica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-68.26106100899995,-54.794164559999956
+1684,GD II,Central Termoeléctrica GD II,Central Termoeléctrica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-68.26055801999996,-54.79475836599994
+1685,Puerto Madryn,Central Térmica Puerto Madryn,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-65.10450783899995,-42.70453898399995
+1687,Rawson I,Parque Eólico Rawson I,Parque Eólico,6.000000000000000,5.000000000000000,IGN/Secretaría de Gobierno de Energía,-65.17876090599998,-43.349193474999936
+1688,Rawson II,Parque Eólico Rawson II,Parque Eólico,6.000000000000000,5.000000000000000,IGN/Secretaría de Gobierno de Energía,-65.17886750599996,-43.34907164699996
+1768,Fiambalá,Parque Solar Fotovoltaico Fiambalá,Parque Solar Fotovoltaico,6.000000000000000,3.000000000000000,Sitio Web de la Empresa,-67.61536588599995,-27.631339491999938
+1751,Antofagasta de la Sierra,Central Solar Antofagasta de la Sierra,Central Solar,6.000000000000000,3.000000000000000,IDE Catamarca,-67.40824902899993,-26.07138200999998
+1752,Lagunillas del Farallón,Central Térmica Lagunillas del Farallón,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-66.62750736799995,-22.46185196899995
+1753,San Antonio de los Cobres,Central Térmica San Antonio de los Cobres,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-66.31783033599999,-24.214874029999976
+1754,Salar de Pocitos,Central Térmica Salar de Pocitos,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-66.99396499999995,-24.373008999999968
+1755,Santa Rosa de los Pastos Grandes,Central Térmica Santa Rosa de los Pastos Grandes,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-66.67383952799997,-24.466627039999935
+1756,La Unión,Central Térmica La Unión,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-63.20148529699998,-23.891365632999964
+1757,Rivadavia,Central Térmica Rivadavia,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-62.88390815399998,-24.183184062999942
+1758,Santa Victoria Este,Central Térmica Santa Victoria Este,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-62.71129379299998,-22.270077584999967
+1759,Alto de la Sierra,Central Térmica Alto de la Sierra,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-62.498074696999936,-22.738386099999957
+1760,Capitán Juan Pagé,Central Térmica Capitán Juan Pagé,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-62.37747853299999,-23.68745353399993
+1762,El Peñón,Central Térmica El Peñón,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-67.26324093299996,-26.478272956999945
+1763,Tinogasta,Central Térmica Tinogasta,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-67.56682742199996,-28.048763949999966
+1764,Tinogasta,Parque Solar Fotovoltaico Tinogasta,Parque Solar Fotovoltaico,6.000000000000000,3.000000000000000,Sitio Web de la Empresa,-67.55645076999997,-28.03485057299997
+1766,Santa María,Central Térmica Santa María,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-66.03865878099998,-26.69513376499998
+1767,Saujil,Parque Solar Fotovoltaico Saujil,Parque Solar Fotovoltaico,6.000000000000000,3.000000000000000,Sitio Web de la Empresa,-66.22648050199996,-28.162958602999936
+1769,Juan José Castelli,Central Térmica Juan José Castelli,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-60.620376687999965,-25.956304273999933
+1776,Aldea Beleiro,Central Térmica Aldea Beleiro,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-71.52156457199999,-45.55205617499996
+1777,Arroyo Verde,Central Térmica Arroyo Verde,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-65.29403270699999,-41.995896191999975
+1778,Buen Pasto,Central Térmica Buen Pasto,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-69.45846145999997,-45.07703669799997
+1779,Colan Cohué,Central Térmica Colan Cohué,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-69.93002236999996,-43.24229199399997
+1780,Cushamen Centro,Central Térmica Cushamen Centro,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-70.66267603499995,-42.176483238999936
+1781,Corcovado,Central Térmica Corcovado,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-71.46707979899998,-43.541220159999966
+1782,El Maitén,Central Térmica El Maitén,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-71.16191126399997,-42.05230218199995
+1783,Gan Gan,Central Térmica Gan Gan,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-68.28305114599993,-42.523037200999966
+1784,Gastre,Central Térmica Gastre,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-69.22129493699998,-42.26528100799993
+1785,Gobernador Costa,Central Térmica Gobernador Costa,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-70.59760177499999,-44.052759235999986
+1786,Gualjaina,Central Térmica Gualjaina,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-70.53194115599996,-42.72420599299994
+1787,Lago Blanco,Central Térmica Lago Blanco,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-71.26840565899994,-45.938566321999986
+1788,Lagunita Salada,Central Térmica Lagunita Salada,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-69.14784159999994,-42.74332082199993
+1789,Las Plumas,Central Térmica Las Plumas,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-67.27539766599995,-43.722790680999935
+1790,Los Altares,Central Térmica Los Altares,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-68.41147873599994,-43.881991479999954
+1791,Paso de Indios,Central Térmica Paso de Indios,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-69.04493034399997,-43.86656362999997
+1792,Paso del Sapo,Central Térmica Paso del Sapo,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-69.60840522699993,-42.73834036599993
+1793,Río Mayo,Central Térmica Río Mayo,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-70.25575428499997,-45.69260083499995
+1794,Tecka,Central Térmica Tecka,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-70.81354788999994,-43.49250794999995
+1795,Telsen,Central Térmica Telsen,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-66.94363399899999,-42.43559198999998
+1796,Aldea Apeleg,Central Térmica Aldea Apeleg,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-70.85271985399999,-44.68935842899998
+1797,Aldea Epulef,Central Térmica Aldea Epulef,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-69.69414351099994,-43.31984413199996
+1798,Blancuntre,Central Térmica Blancuntre,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-68.90388188499998,-42.62148155699998
+1799,Cerro Cóndor,Central Térmica Cerro Cóndor,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-69.16420364899994,-43.421535322999944
+1800,Chacay Oeste,Central Térmica Chacay Oeste,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-68.06240974799994,-42.68166037699996
+1801,Costa del Gualjaina,Central Térmica Costa del Gualjaina,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-70.44355196699996,-42.663180541999964
+1802,Costa del Chubut,Central Térmica Costa del Chubut,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-70.45930163999998,-42.60502267299995
+1803,El Escorial,Central Térmica El Escorial,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-68.53900273199997,-43.09100085599994
+1804,El Mirasol,Central Térmica El Mirasol,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-67.76216705799999,-43.283792147999975
+1805,El Turbio,Central Térmica El Turbio,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-71.70029468399997,-42.248091418999934
+1806,Fofó Cahuel,Central Térmica Fofó Cahuel,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-70.52926750899996,-42.407853802999966
+1807,Piedra Parada,Central Térmica Piedra Parada,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-70.15306697499994,-42.66366951499998
+1808,Colonia Agrícola Sepaucal,Central Térmica Colonia Agrícola Sepaucal,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-67.40405866599997,-42.27339794799997
+1809,Yala Laubat,Central Térmica Yala Laubat,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-68.86455650699997,-42.76104420899998
+1810,Loma Blanca,Parque Eólico Loma Blanca,Parque Eólico,6.000000000000000,5.000000000000000,Secretaría de Energía de la Nación,-65.26660512299998,-43.13422005999996
+1814,Esquina (IEASA S.A.),Central Térmica Esquina (IEASA S.A.),Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-59.52965890399997,-30.055382961999953
+1817,Itá Ibaté,Central Térmica Itá Ibaté,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-57.33410471199994,-27.425194466999983
+1818,Berón de Astrada,Central Térmica Berón de Astrada,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-57.52707899899997,-27.55056215299993
+1819,Lomas de Vallejos,Central Térmica Lomas de Vallejos,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-57.92121721299998,-27.739340315999982
+1820,Nuestra Señora del Rosario de Caá Catí,Central Térmica Nuestra Señora del Rosario de Caá Catí,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-57.62047742499993,-27.75339738699995
+1821,Loreto,Central Térmica Loreto,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-57.27730652699995,-27.769748840999966
+1822,Estación Torrent,Central Térmica Estación Torrent,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-56.47005673299998,-28.82786988099997
+1823,Colonia Carlos Pellegrini,Central Térmica Colonia Carlos Pellegrini,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-57.17523833699994,-28.53818502799993
+1824,Palmar Grande,Central Térmica Palmar Grande,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-57.90097410299995,-27.94230155699995
+1825,San Miguel,Central Térmica San Miguel,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-57.59115297599993,-27.996176144999936
+1826,Mburucuyá,Central Térmica Mburucuyá,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-58.228701515999944,-28.044459427999982
+1827,Perugorría,Central Térmica Perugorría,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-58.60762180099994,-29.33991243099996
+1828,Paso de los Libres,Central Térmica Paso de los Libres,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-57.093305579999935,-29.714824095999973
+1838,Comandante Andresito,Central Térmica Comandante Andresito,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-54.04192999999998,-25.66692999999998
+1840,Gobernador Duval,Central Térmica Gobernador Duval,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-66.43633468599995,-38.740250698999944
+1841,Cerro Policía,Central Térmica Cerro Policía,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-68.49019018499996,-39.72644483199997
+1845,Fuentes del Coyle,Central Térmica Fuentes del Coyle,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía de la Nación,-71.93049238999998,-51.13183995099996
+1854,Yacyretá-Apipé,Complejo Hidroeléctrico Yacyretá-Apipé,Complejo Hidroeléctrica,6.000000000000000,1.000000000000000,Bicontinental versión 2024,-56.73966399999995,-27.482708999999943
+1855,Binacional Salto Grande,Complejo Hidroeléctrico Binacional Salto Grande,Complejo Hidroeléctrico,6.000000000000000,1.000000000000000,Bicontinental versión 2024,-57.942210726999974,-31.273195536999935
+1856,,,,-1.000000000000000,-1.000000000000000,Imagery,-58.97589353999996,-51.82977508199997
+1857,,,,-1.000000000000000,-1.000000000000000,Imagery,-58.976522999999986,-51.82972399999994
+1858,,,,-1.000000000000000,-1.000000000000000,Imagery,-58.957801710999945,-51.80675181199996
+1859,,,,-1.000000000000000,5.000000000000000,Imagery,-57.97632151199997,-51.718517016999954
+1860,,,,-1.000000000000000,5.000000000000000,Imagery,-57.97664987799993,-51.726312130999986
+1861,,,,-1.000000000000000,5.000000000000000,Imagery,-58.47850784599996,-51.888658405999934
+1862,San Guillermo,Central Hidráulica San Guillermo,Central Hidráulica,6.000000000000000,1.000000000000000,IGN/Secretaría de Energía,-69.51700936599997,-31.698080322999942
+1863,Ullum,Parque Solar Fotovoltaico Ullum,Parque Solar Fotovoltaico,6.000000000000000,3.000000000000000,IGN01/Secretaría de Energía,-68.67463063199995,-31.38913989799994
+1864,Los Caracoles,Central Hidráulica Los Caracoles,Central Hidráulica,6.000000000000000,1.000000000000000,IGN/Secretaría de Energía,-68.98357362399997,-31.516341161999947
+1865,Albardón,Central Hidráulica Albardón,Central Hidráulica,6.000000000000000,1.000000000000000,IGN01/Secretaría de Energía,-68.54416470299998,-31.452209624999966
+1866,La Chimbera I,Parque Solar Fotovoltaico La Chimbera I,Parque Solar Fotovoltaico,6.000000000000000,3.000000000000000,Secretaría de Energía,-68.54016999999993,-31.988088999999945
+1867,Polvaredas,Central Térmica Polvaredas,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía,-69.65125325899999,-32.79245064999998
+1868,Nazario Benavídez,Central Hidráulica Nazario Benavídez,Central Hidráulica,6.000000000000000,1.000000000000000,Secretaría de Energía,-68.54673634599999,-31.510642358999974
+1869,Salto de la Loma,Central Hidráulica Salto de la Loma,Central Hidráulica,6.000000000000000,1.000000000000000,Secretaría de Energía,-68.77116499999994,-30.22105099999993
+1879,Ullum,Central Hidráulica Ullum,Central Hidráulica,6.000000000000000,1.000000000000000,IGN01/Secretaría de Energía,-68.75568116699998,-31.455568167999957
+1880,Quebrada de Ullum,Central Hidroeléctrica Quebrada de Ullum,Central Hidroeléctrica,6.000000000000000,1.000000000000000,IGN/Secretaría de Energía/EPSE,-68.64743806899997,-31.476121982999928
+1881,Cuesta del Viento,Central Hidroeléctrica Cuesta del Viento,Central Hidroeléctrica,6.000000000000000,1.000000000000000,IGN01/Secretaría de Energía,-69.06247322199994,-30.196019311999976
+1882,Puente del Inca,Central Térmica Puente del Inca,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía,-69.90916666699997,-32.82416666699993
+1883,Cañada Honda,Parque Solar Fotovoltaico Cañada Honda,Parque Solar Fotovoltaico,6.000000000000000,3.000000000000000,Secretaría de Energía,-68.53963146299998,-31.985285071999954
+1884,Las Cuevas,Central Térmica Las Cuevas,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía/Street View,-70.05000038899993,-32.813476100999935
+1885,Los Penitentes,Central Térmica Los Penitentes,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Energía/Street View,-69.84305565199998,-32.84102730799998
+1889,Guañizuil,Parque Solar Fotovoltaico Guañizuil,Parque Solar Fotovoltaico,6.000000000000000,3.000000000000000,Secretaría de Energía,-69.29948114499996,-30.36000263699998
+1890,Guañizuil II-A,Parque Solar Fotovoltaico Guañizuil II-A,Parque Solar Fotovoltaico,6.000000000000000,3.000000000000000,Secretaría de Energía,-69.30059773199997,-30.363222440999948
+1891,Diaguitas-Tamberías,Parque Solar Diaguitas-Tamberías,Parque Solar,-1.000000000000000,3.000000000000000,ESRI World Imagery/Secretaría de Enegía de la Nación,-69.46737969899993,-31.397323940999968
+1892,Los Caracoles,Central Hidroeléctrica Los Caracoles,Central Hidroeléctrica,-2.000000000000000,1.000000000000000,GeoSanJuan,-68.96799525099993,-31.51708333299996
+1893,Punta Negra,Central Hidroeléctrica Punta Negra,Central Hidroeléctrica,-2.000000000000000,1.000000000000000,GeoSanJuan,-68.81484828299995,-31.516523949999964
+1894,Anchipurac,Parque Solar Anchipurac,Parque Solar,6.000000000000000,3.000000000000000,GEOSanJuan,-68.65309149299998,-31.60219104899994
+1897,Don Claudio Tinto,Usina Hidroeléctrica Don Claudio Tinto,Usina Hidroeléctrica,6.000000000000000,1.000000000000000,IGN01,-69.55009037499997,-31.369055102999937
+1898,Chepes,Parque Solar Chepes,Parque Solar,6.000000000000000,3.000000000000000,Secretaría de Energía de la Nación/Street View,-66.65809794299997,-31.350146304999953
+1899,Chepes,Central Térmica Chepes,Central Térmica,6.000000000000000,-1.000000000000000,Secretaría de Energía de la Nación/ESRI World Imagery,-66.58646352699998,-31.33719930999996
+1906,Los Diaguitas,Parque Solar Los Diaguitas,Parque Solar,6.000000000000000,3.000000000000000,IGN/Secretaría de Energía de la Nación,-68.45648214399995,-31.369351562999952
+1907,Parque Solar,Parque Solar Las Lomitas,Parque Solar,6.000000000000000,3.000000000000000,Street View,-68.47761759099996,-31.406550152999955
+1913,Vitry,Usina Vitry,Usina,-2.000000000000000,-1.000000000000000,IGN01,-68.60015435599996,-31.499784155999976
+1915,,,,-1.000000000000000,4.000000000000000,IGN/Esri World Imagery,-68.07009124799998,-38.21084594699994
+1924,Julián Romero,Central Hidroeléctrica Julián Romero,Central Hidroeléctrica,6.000000000000000,1.000000000000000,IGN04/Secretaría de Gobierno de Energía de la Nación/IGN Dirección de Geografía,-68.03749343599998,-38.83657365799996
+1925,Auquinco,Central Térmica Auquinco,Central Térmica,6.000000000000000,7.000000000000000,IGN/Esri World Imagery/Secretaría de Energía de la Nación/Dir Geografía IGN,-69.97489447399994,-37.310753912999985
+1926,Agua del Cajón,Central Térmica Agua del Cajón,Central Térmica,6.000000000000000,7.000000000000000,IGN01/Secretaría de Gobierno de Energía de la Nación/IGN Dirección de Geografía,-68.35507881899997,-38.93640159499995
+1927,Alto Valle,Central Térmica Alto Valle,Central Térmica,6.000000000000000,7.000000000000000,IGN04/Secretaría de Gobierno de Energía de la Nación/IGN Dirección de Geografía,-68.02207123299996,-38.95212542899998
+1928,Filo Morado,Central Térmica Filo Morado,Central Térmica,6.000000000000000,7.000000000000000,IGN/Esri World Imagery/Secretaría de Energía de la Nación/Dir. Geografía IGN,-69.65249701699997,-37.27364805899998
+1929,Andacollo,Central Térmica Andacollo,Central Térmica,6.000000000000000,7.000000000000000,IGN04/IGN Dirección de Geografía,-70.66229679199995,-37.18025752699998
+1934,Pichi Picún Leufú,Central Eléctrica Pichi Picún Leufú,Central Eléctrica,6.000000000000000,7.000000000000000,Secretaría de Gobierno de Energía,-69.98443947799996,-40.01257122299995
+1935,Piedra del Águila,Complejo Hidroléctrico Piedra del Águila,Complejo Hidroléctrico,6.000000000000000,1.000000000000000,IGN04/Secretaría de Gobierno de Energía/IGN01,-69.99173592199998,-40.18934870999993
+1937,Planicie Banderita,Central Hidroeléctrica Planicie Banderita,Central Hidroeléctrica,6.000000000000000,1.000000000000000,Esri World Imagery/IGN01/IGN04/IGN Dirección de Geografía/Secretaría de Energía de la Nación,-68.47448999999995,-38.55957999999998
+1938,Loma de la Lata,Central Térmica Loma de la Lata,Central Térmica,6.000000000000000,7.000000000000000,Esri World Imagery/IGN01/IGN04/Secretaría de Energía/IGN Dirección de Geografía,-68.60619144399993,-38.511903107999956
+1943,Chos Malal,Central Térmica Chos Malal,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-70.27304885999996,-37.36752692599998
+1945,El Chocón,Central Hidroeléctrica El Chocón,Central Hidroeléctrica,6.000000000000000,1.000000000000000,IGN04/Esri World Imagery,-68.75612563099997,-39.26610162199995
+1946,Arroyito,Central Hidroeléctrica Arroyito,Central Hidroeléctrica,6.000000000000000,1.000000000000000,IGN/Esri World Imagery,-68.58549185099997,-39.10709753599997
+1951,Aluminé,Central Térmica Aluminé,Central Térmica,6.000000000000000,7.000000000000000,IGN01/IGN04/Secretaría de Energía de la Nación/IGN Dirección de Geografía,-70.91587609099997,-39.21440417399998
+1952,Chorriaca,Central Eléctrica Chorriaca,Central Eléctrica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-70.10016620999994,-37.93620430899995
+1954,Caviahue,Central Termoeléctrica Caviahue,Central Termoeléctrica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-70.62743557299996,-38.055804997999985
+1959,Villa Traful,Central Térmica Villa Traful,Central Térmica,6.000000000000000,7.000000000000000,IGN01/IGN04/Secretaría de Gobierno de Energía/IGN Dirección de Geografía,-71.39728804299995,-40.655042299999934
+1961,Cutral Có,Central Eléctrica Cutral Có,Central Eléctrica,6.000000000000000,7.000000000000000,Esri World Imagery/Geografía,-69.22509993699998,-38.97801587099997
+1962,Plaza Huincul,Central Eléctrica Plaza Huincul,Central Eléctrica,6.000000000000000,7.000000000000000,Esri World Imagery/Geografía,-69.16182960599997,-38.93263078299998
+1964,Buta-Có,Central Hidráulica Buta-Có,Central Hidráulica,6.000000000000000,1.000000000000000,IGN/Esri World Imagery,-69.86291644599999,-36.93557857199994
+1965,Bariloche,Central Térmica Bariloche,Central Térmica,6.000000000000000,7.000000000000000,IGN04/Secretaría de Gobierno de Energía,-71.25207443499994,-41.158787400999984
+1967,Ingeniero Juan E. Pechón,Usina Ingeniero Juan E. Pechón,Usina,6.000000000000000,7.000000000000000,Esri World Imagery/Open Street View,-71.28148107199996,-41.13916828799995
+1969,,,,6.000000000000000,-1.000000000000000,Esri World Imagery,-68.17964726699995,-37.662295650999965
+1971,Alicurá,Central Hidroeléctrica Alicurá,Central Hidroeléctrica,6.000000000000000,1.000000000000000,IGN01/IGN04/Secretaría de Energía de la Nación/IGN Dirección de Geografía,-70.74741842599997,-40.58417236499997
+1973,Cochico,Micro Central Hidroeléctrica Cochico,Micro Central Hidroeléctrica,6.000000000000000,1.000000000000000,IGN/EPEN,-70.26309026599995,-36.48805146999996
+1974,Villa La Angostura,Central Térmica Villa La Angostura,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-71.63796699999995,-40.757094999999936
+1977,San Martín de los Andes,Central Térmica San Martín de los Andes,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-71.33502414299994,-40.151593410999965
+1978,Moquehue,Central Térmica Moquehue,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-71.33088302999994,-38.95008160799995
+1980,Aluminé,Central Térmica Aluminé,Central Térmica,6.000000000000000,7.000000000000000,IGN/Secretaría de Gobierno de Energía,-70.57389440899993,-38.87099519999998
+1982,Cipolletti,Central Térmica Cipolletti,Central Térmica,6.000000000000000,1.000000000000000,Secretaría de Energía de la Nación/IGN04,-67.94202256999995,-38.91316778999993
+1983,Roca,Central Térmica Roca,Central Térmica,6.000000000000000,7.000000000000000,Secretraía de Energía de la Nación,-67.60050330699994,-38.94513565999995
+1984,General Roca,Central Hidráulica General Roca,Central Hidráulica,6.000000000000000,1.000000000000000,IGN04/Secretaría de Gobierno de Energía/Street View,-67.56946331599994,-39.02356030899995
+1986,Mencué,Central Térmica Mencué,Central Térmica,6.000000000000000,7.000000000000000,IGN04/Secretaría de Gobierno de Energía,-69.61482879199997,-40.42374361599997
+1987,Santo Tomás,Central Santo Tomás,Central,6.000000000000000,7.000000000000000,MINEM/IGN04,-70.10294999999996,-39.87187499999993
+1992,Cerro Wayle,Central Térmica Cerro Wayle,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Gobierno de Energía/IGN04,-70.11907749299996,-37.078232613999944
+1993,Tricao Malal,Central Térmica Tricao Malal,Central Térmica,6.000000000000000,7.000000000000000,Secretaría de Gobierno de Energía/IGN04,-70.32268867399995,-37.043534043999955
+1994,Los Miches,Central Térmica Los Miches,Central Térmica,6.000000000000000,7.000000000000000,IGN04/Secretaría de Energía de la Nación,-70.84372562499993,-37.20224863399994
+1995,Las Ovejas,Central Eléctrica Las Ovejas,Central Eléctrica,6.000000000000000,7.000000000000000,MINEM,-70.74912299999994,-36.98798799999997
+1996,Varvarco,Central Eléctrica Varvarco,Central Eléctrica,-1.000000000000000,7.000000000000000,IGN01/MINEM,-70.67715499999997,-36.84649399999995
+1999,Las Coloradas,Central Térmica Las Coloradas,Central Térmica,6.000000000000000,7.000000000000000,IGN04/Secretaía de Energía de la Nación,-70.59652284499998,-39.55723898399998
+2000,Rincón de los Sauces,Central Térmica Rincón de los Sauces,Central Térmica,6.000000000000000,7.000000000000000,IGN01/IGN04/IGN Dirección de Geografía,-68.90013551199996,-37.41021882599995
+2002,Piedras Negras,Central Térmica Piedras Negras,Central Térmica,6.000000000000000,7.000000000000000,IGN01,-68.33602710899999,-37.615670782999985
+2004,El Portón,Central Térmica El Portón,Central Térmica,6.000000000000000,7.000000000000000,IGN01,-69.65498348499995,-37.15933152599996
+2005,Buta Ranqui,Central Térmica Buta Ranquil,Central Térmica,6.000000000000000,7.000000000000000,IGN04/Secretaría de Energía de la Nación,-69.87803211899995,-37.05024913899996
+2006,El Manzano,Central Térmica El Manzano,Central Térmica,6.000000000000000,7.000000000000000,IGN04/Secretaría de Energía de la Nación,-69.75869261999998,-36.10652998899997
+2007,El Alambrado,Central Térmica El Alambrado,Central Térmica,6.000000000000000,7.000000000000000,IGN04/Secretaría de Energía de la Nación,-69.85842909899998,-36.26986145799998
+2010,,,,-1.000000000000000,-1.000000000000000,Esri-World_Imagery,-68.57805184699998,-38.34691328899993

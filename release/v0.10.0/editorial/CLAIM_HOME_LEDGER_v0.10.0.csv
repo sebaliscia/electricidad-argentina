@@ -1,0 +1,22 @@
+claim_id,claim,home_chapter,evidence,visual,role
+C01_SYSTEM,Cambio de la oferta 2018–2025,1,supply_change_bridge_2018_2025.csv,F02,PRIMARY
+C02_BOUNDARIES,"Diferenciar generación, oferta, demanda, topología y operación",2,concept contracts + GIS registers,T02,PRIMARY
+C03_PEAK,La punta creció más rápido que la energía,3,annual_demand_balance_2012_2025.csv,F03,PRIMARY
+C03_DURATION,Curva de duración 2023–2025,3,hourly_demand_duration_curve_2023_2025.csv.gz,F05,PRIMARY
+C03_RAMP,La carga neta exige rampas superiores,3,hourly_ramp_summary_2023_2025.csv,F07,PRIMARY
+C04_RENEW,Expansión eólica y solar,4,renewable generation/capacity tables,F08,PRIMARY
+C04_PROGRAMS,Coexistencia RenovAr y MATER,4,renewable_generation_by_program_2012_2025.csv,F09,PRIMARY
+C05_HYDRO,Caída y composición hidráulica,5,large_hydro_annual_2018_2025.csv,F11,PRIMARY
+C05_YACY,Yacyretá: producción y asignación,5,binational_allocation_decomposition_2018_2025.csv,F12,PRIMARY
+C06_THERMAL,Generación térmica y emisiones,6,annual_thermal_emissions_indicators_2018_2025.csv,F14,PRIMARY
+C06_LMDI,Descomposición de emisiones,6,lmdi_direct_absolute_2018_2025.csv,F15,PRIMARY
+C06_HOURLY,"Asociaciones horarias condicionales, no causales",6,thermal_technology_response.csv,F16,PRIMARY
+C07_TERRITORY,"Geografía de red, generación y consumo",7,official GIS + baseline provincial tables,M01/M02,PRIMARY
+C07_CONCENTRATION,"Buenos Aires + CABA concentra 49,0 % de demanda",7,provincial_demand_summary_2023_2025.csv,M02,PRIMARY
+C08_REGION,Comparación regional normalizada,8,REGIONAL_NORMALIZED_METRICS,F22-F25,PRIMARY
+C08_TRADE,Comercio bruto y saldo neto,8,annual_exchange_metrics_2012_2025.csv,F17,SECONDARY
+C09_DECISION,Matriz de implicancias,9,STRATEGIC_IMPLICATION_MATRIX,F26,PRIMARY
+C09_CAP,Capacidades tecnológicas preliminares,9,NATIONAL_TECH_CAPABILITY_MATRIX,F27,PRIMARY
+C09_STRESS,"Sensibilidad acotada, no pronóstico",9,SCENARIO_SENSITIVITY_RESULTS,F28,PRIMARY
+C10_SYNTHESIS,"La transición cambia energía, potencia, territorio e instituciones",10,integrated synthesis,none,PRIMARY
+C11_DATA,Agenda de datos nodales y subhorarios,11,gap register,T11,PRIMARY

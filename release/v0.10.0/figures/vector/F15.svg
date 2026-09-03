@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="695.844pt" height="370.510475pt" viewBox="0 0 695.844 370.510475" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-08-18T20:34:16.937053</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 370.510475 
+L 695.844 370.510475 
+L 695.844 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 46.874 317.884075 
+L 688.644 317.884075 
+L 688.644 27.616875 
+L 46.874 27.616875 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m42ae39cc04" d="M 0 0 
+L 0 3.5 
+" style="stroke: #203037; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m42ae39cc04" x="108.056418" y="317.884075" style="fill: #203037; stroke: #203037; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 9.3px; font-family: 'Source Sans 3'; text-anchor: middle; fill: #203037" x="108.056418" y="331.505966" transform="rotate(-0 108.056418 331.505966)">Actividad</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m42ae39cc04" x="211.317882" y="317.884075" style="fill: #203037; stroke: #203037; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 9.3px; font-family: 'Source Sans 3'; fill: #203037" transform="translate(185.482046 331.719575)">Participación</text>
+      <text style="font-size: 9.3px; font-family: 'Source Sans 3'; fill: #203037" transform="translate(196.358686 341.572344)">térmica</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m42ae39cc04" x="314.579346" y="317.884075" style="fill: #203037; stroke: #203037; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 9.3px; font-family: 'Source Sans 3'; text-anchor: middle; fill: #203037" x="314.579346" y="331.719575" transform="rotate(-0 314.579346 331.719575)">Consumo específico</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m42ae39cc04" x="417.84081" y="317.884075" style="fill: #203037; stroke: #203037; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 9.3px; font-family: 'Source Sans 3'; fill: #203037" transform="translate(398.711146 331.505966)">Mezcla de</text>
+      <text style="font-size: 9.3px; font-family: 'Source Sans 3'; fill: #203037" transform="translate(391.563224 341.358734)">combustibles</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m42ae39cc04" x="521.102274" y="317.884075" style="fill: #203037; stroke: #203037; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 9.3px; font-family: 'Source Sans 3'; fill: #203037" transform="translate(502.818329 331.505966)">Factor de</text>
+      <text style="font-size: 9.3px; font-family: 'Source Sans 3'; fill: #203037" transform="translate(505.630852 341.358734)">emisión</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m42ae39cc04" x="624.363739" y="317.884075" style="fill: #203037; stroke: #203037; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 9.3px; font-family: 'Source Sans 3'; text-anchor: middle; fill: #203037" x="624.363739" y="331.505966" transform="rotate(-0 624.363739 331.505966)">Cambio total</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_7">
+      <path d="M 46.874 299.182883 
+L 688.644 299.182883 
+" clip-path="url(#p5ddde96c81)" style="fill: none; stroke: #dce5e7; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8">
+      <defs>
+       <path id="m460fbe99ae" d="M 0 0 
+L -3.5 0 
+" style="stroke: #203037; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m460fbe99ae" x="46.874" y="299.182883" style="fill: #203037; stroke: #203037; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 9.3px; font-family: 'Source Sans 3'; text-anchor: end; fill: #203037" x="39.874" y="302.493829" transform="rotate(-0 39.874 302.493829)">−8</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_9">
+      <path d="M 46.874 241.209128 
+L 688.644 241.209128 
+" clip-path="url(#p5ddde96c81)" style="fill: none; stroke: #dce5e7; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m460fbe99ae" x="46.874" y="241.209128" style="fill: #203037; stroke: #203037; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 9.3px; font-family: 'Source Sans 3'; text-anchor: end; fill: #203037" x="39.874" y="244.520073" transform="rotate(-0 39.874 244.520073)">−6</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_11">
+      <path d="M 46.874 183.235372 
+L 688.644 183.235372 
+" clip-path="url(#p5ddde96c81)" style="fill: none; stroke: #dce5e7; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m460fbe99ae" x="46.874" y="183.235372" style="fill: #203037; stroke: #203037; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 9.3px; font-family: 'Source Sans 3'; text-anchor: end; fill: #203037" x="39.874" y="186.546317" transform="rotate(-0 39.874 186.546317)">−4</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_13">
+      <path d="M 46.874 125.261616 
+L 688.644 125.261616 
+" clip-path="url(#p5ddde96c81)" style="fill: none; stroke: #dce5e7; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m460fbe99ae" x="46.874" y="125.261616" style="fill: #203037; stroke: #203037; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font-size: 9.3px; font-family: 'Source Sans 3'; text-anchor: end; fill: #203037" x="39.874" y="128.572561" transform="rotate(-0 39.874 128.572561)">−2</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_15">
+      <path d="M 46.874 67.28786 
+L 688.644 67.28786 
+" clip-path="url(#p5ddde96c81)" style="fill: none; stroke: #dce5e7; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m460fbe99ae" x="46.874" y="67.28786" style="fill: #203037; stroke: #203037; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font-size: 9.3px; font-family: 'Source Sans 3'; text-anchor: end; fill: #203037" x="39.874" y="70.598806" transform="rotate(-0 39.874 70.598806)">0</text>
+     </g>
+    </g>
+    <g id="text_12">
+     <text style="font-size: 9.5px; font-family: 'Source Sans 3'; text-anchor: middle; fill: #203037" x="24.681719" y="172.750475" transform="rotate(-90 24.681719 172.750475)">Contribución al cambio (MtCO₂)</text>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 76.045364 67.28786 
+L 140.067471 67.28786 
+L 140.067471 27.616875 
+L 76.045364 27.616875 
+z
+" clip-path="url(#p5ddde96c81)" style="fill: #d8684a"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 179.306828 27.616875 
+L 243.328936 27.616875 
+L 243.328936 229.464197 
+L 179.306828 229.464197 
+z
+" clip-path="url(#p5ddde96c81)" style="fill: #188b86"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 282.568292 229.464197 
+L 346.5904 229.464197 
+L 346.5904 275.363482 
+L 282.568292 275.363482 
+z
+" clip-path="url(#p5ddde96c81)" style="fill: #188b86"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 385.829756 275.363482 
+L 449.851864 275.363482 
+L 449.851864 317.884075 
+L 385.829756 317.884075 
+z
+" clip-path="url(#p5ddde96c81)" style="fill: #188b86"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 489.09122 317.884075 
+L 553.113328 317.884075 
+L 553.113328 316.363836 
+L 489.09122 316.363836 
+z
+" clip-path="url(#p5ddde96c81)" style="fill: #d8684a"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 589.254841 67.28786 
+L 659.472636 67.28786 
+L 659.472636 316.363836 
+L 589.254841 316.363836 
+z
+" clip-path="url(#p5ddde96c81)" style="fill: #123b4a"/>
+   </g>
+   <g id="line2d_17">
+    <path d="M 140.067471 27.616875 
+L 179.306828 27.616875 
+" clip-path="url(#p5ddde96c81)" style="fill: none; stroke: #9fb0b5; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_18">
+    <path d="M 243.328936 229.464197 
+L 282.568292 229.464197 
+" clip-path="url(#p5ddde96c81)" style="fill: none; stroke: #9fb0b5; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_19">
+    <path d="M 346.5904 275.363482 
+L 385.829756 275.363482 
+" clip-path="url(#p5ddde96c81)" style="fill: none; stroke: #9fb0b5; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_20">
+    <path d="M 449.851864 317.884075 
+L 489.09122 317.884075 
+" clip-path="url(#p5ddde96c81)" style="fill: none; stroke: #9fb0b5; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_21">
+    <path d="M 553.113328 316.363836 
+L 592.352685 316.363836 
+" clip-path="url(#p5ddde96c81)" style="fill: none; stroke: #9fb0b5; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_22">
+    <path d="M 46.874 67.28786 
+L 688.644 67.28786 
+" clip-path="url(#p5ddde96c81)" style="fill: none; stroke: #203037; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 46.874 317.884075 
+L 46.874 27.616875 
+" style="fill: none; stroke: #9fb0b5; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 46.874 317.884075 
+L 688.644 317.884075 
+" style="fill: none; stroke: #9fb0b5; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 600; font-size: 8px; font-family: 'Source Sans 3'; text-anchor: middle" x="108.056418" y="18.817656" transform="rotate(-0 108.056418 18.817656)">+1,37</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 600; font-size: 8px; font-family: 'Source Sans 3'; text-anchor: middle" x="211.317882" y="242.358417" transform="rotate(-0 211.317882 242.358417)">-6,96</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 600; font-size: 8px; font-family: 'Source Sans 3'; text-anchor: middle" x="314.579346" y="288.257702" transform="rotate(-0 314.579346 288.257702)">-1,58</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 600; font-size: 8px; font-family: 'Source Sans 3'; text-anchor: middle" x="417.84081" y="330.778294" transform="rotate(-0 417.84081 330.778294)">-1,47</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 600; font-size: 8px; font-family: 'Source Sans 3'; text-anchor: middle" x="521.102274" y="307.564616" transform="rotate(-0 521.102274 307.564616)">+0,05</text>
+   </g>
+   <g id="text_18">
+    <text style="font-weight: 700; font-size: 9.3px; font-family: 'Source Sans 3'; text-anchor: middle; fill: #ffffff" x="624.363739" y="331.476899" transform="rotate(-0 624.363739 331.476899)">-8,59</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 8.5px; font-family: 'Source Sans 3'; text-anchor: start; fill: #66757c" x="46.874" y="22.971703" transform="rotate(-0 46.874 22.971703)">Descomposición LMDI 2018–2025; suma exacta de efectos contables</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 600; font-size: 14px; font-family: 'Source Sans 3'; text-anchor: start; fill: #123b4a" x="46.874" y="17.616875" transform="rotate(-0 46.874 17.616875)">La menor participación térmica fue el factor dominante de la caída de emisiones</text>
+   </g>
+  </g>
+  <g id="text_21">
+   <text style="font-size: 6.7px; font-family: 'Source Sans 3'; text-anchor: start; fill: #66757c" x="7.2" y="361.936975" transform="rotate(-0 7.2 361.936975)">Fuente: elaboración propia sobre la base científica canónica v0.8.3, salvo indicación distinta.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p5ddde96c81">
+   <rect x="46.874" y="27.616875" width="641.77" height="290.2672"/>
+  </clipPath>
+ </defs>
+</svg>
